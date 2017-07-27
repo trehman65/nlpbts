@@ -17,6 +17,16 @@ def averageDensity(inputString, POS):
             totalPOS += 1
     return float(totalPOS) / len(taggedTokens)
 
+def countVerbs(inputString):
+    totalVerbs=0
+    tokenizedString = nltk.word_tokenize(inputString)
+    taggedTokens = nltk.pos_tag(tokenizedString, tagset="universal")
+    for token in taggedTokens:
+        tag = token[1]
+        if tag.find("VERB") != -1:
+            totalVerbs += 1
+    return totalVerbs
+
 
 def containsPOS(inputString, POS):
     tokenizedString = nltk.word_tokenize(inputString)
@@ -64,17 +74,54 @@ def evaluateString(inputString, dictSubjects):
 
     return "None"
 
+def process(inputString):
 
-'''
-Types of input:
-1 box of 12 colored pencils
-1x box of 12 colored pencils
-box of 12 colored pencils 1
-one box of 12 colored pencils
+    wordlabel=[]
 
-'''
-file = open("/Users/talha/Documents/Workspace/nlpbts/trainmac/files2.txt")
-abspath = "/Users/talha/Documents/Workspace/nlpbts/trainmac/"
+    line = inputString
+
+    line = line.replace("\n", "")
+    # strip spaces from stat and end of string
+    line = line.strip()
+    orgline = line
+    # strip punctuation marks from start and end
+    line = line.strip(string.punctuation)
+    # strip spaces again from start and end
+    line = line.strip()
+
+    input = line
+    wordlabel.append(["Input String", orgline])
+
+    if (countVerbs(line) >= 2):
+
+        wordlabel.append(["Comment", line])
+    else:
+
+        input = re.sub(r'([^\s\w]|_)+', '', input)
+
+        words = nltk.word_tokenize(input)
+        tags = nltk.pos_tag(words)
+
+        # first word is a number
+        if tags[0][1] == 'CD':
+            wordlabel.append(["Quantity", tags[0][0]])
+            wordlabel.append(["Item", input.replace(tags[0][0], '', 1).strip()])
+        # last word is quantity
+        elif tags[len(tags) - 1][1] == 'CD':
+            wordlabel.append(["Quantity", tags[len(tags) - 1][0]])
+            wordlabel.append(["Item", input.strip(tags[len(tags) - 1][0]).strip()])
+
+        else:
+            wordlabel.append([evaluateString(line.strip(), dictSubjects), line])
+
+    return wordlabel
+
+
+
+
+abspath = "/Users/talha/PycharmProjects/bts/trainmac/"
+file = open(abspath+"files2.txt")
+
 
 dictSubjects = set()
 with open("dictSubjects.txt") as f:
@@ -96,49 +143,9 @@ for filename in file.readlines():
     outpath = abspath + filename
     outfile = open(outpath, 'w')
 
+
     for line in file.readlines():
 
         if len(line) > 3:
-
-            # strip spaces from stat and end of string
-            line = line.strip()
-            orgline = line
-            # strip punctuation marks from start and end
-            line = line.strip(string.punctuation)
-            # strip spaces again from start and end
-            line = line.strip()
-
-            input = line
-            input2 = input
-
-            outfile.write("Input String: " + orgline.replace("\n", "") + "\n")
-
-            input = re.sub(r'([^\s\w]|_)+', '', input)
-
-            words = nltk.word_tokenize(input)
-            tags = nltk.pos_tag(words)
-
-            if tags[0][1] == 'CD':
-
-                # print "Quantity:",tags[0][0]
-                outfile.write("Quantity: " + tags[0][0] + "\n")
-                item = input.replace(tags[0][0], '', 1)
-
-                # print "Item: ",item
-                outfile.write("Item: " + item)
-                outfile.write("\n\n")
-
-            elif tags[len(tags) - 1][1] == 'CD':
-                # print "Quantity:",tags[len(tags)-1][0]
-                outfile.write("Quantity: " + tags[len(tags) - 1][0] + "\n")
-
-                item = input.strip(tags[len(tags) - 1][0])
-                # print "Item: ",item
-                outfile.write("Item: " + item)
-                outfile.write("\n\n")
-
-            else:
-                outfile.write(evaluateString(input.strip(), dictSubjects) + ": " + input)
-                outfile.write("\n\n")
-
+            print process(line)
 
