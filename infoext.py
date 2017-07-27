@@ -147,5 +147,11 @@ for filename in file.readlines():
     for line in file.readlines():
 
         if len(line) > 3:
-            print process(line)
+            if line.find("        "):
+                parts= line.split("        ")
+                for part in parts:
+                    if len(part)>1:
+                        print process(part.strip())
+            else:
+                print process(line)
 
