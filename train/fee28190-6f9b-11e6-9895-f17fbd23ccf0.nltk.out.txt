@@ -1,0 +1,35 @@
+Input String: moo Virgin ? 12:26 PM  ,q, 98%I I
+None: moo Virgin  1226 PM  q 98I I
+
+Input String: cvalleycsd.org
+Item: cvalleycsdorg
+
+Input String: pencils
+Item: pencils
+
+Input String: History
+Subject: History
+
+Input String: Global History I
+Item: Global History I
+
+Input String: 3" three-ring binder
+Quantity: 3
+Item:  threering binder
+
+Input String: loose leaf paper
+Item: loose leaf paper
+
+Input String: pens (blue/black)
+Item: pens blueblack
+
+Input String: pencils
+Item: pencils
+
+Input String: Global History II
+Item: Global History II
+
+Input String: 3" three-ring binder
+Quantity: 3
+Item:  threering binder
+

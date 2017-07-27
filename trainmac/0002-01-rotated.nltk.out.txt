@@ -1,0 +1,90 @@
+Input String: ????o CC LTE   3:06 PM      1 85%?.
+Quantity: 85
+Item: o CC LTE   306 PM      1 
+
+Input String: good housekeepi ng.com
+Item: good housekeepi ngcom
+
+Input String: ? Three-ring binder ($5, amazon.com)
+None: Threering binder 5 amazoncom
+
+Input String: ? Three-hole punch ($8, amazon.com)
+Item: Threehole punch 8 amazoncom
+
+Input String: ? Loose-leaf paper or spiral notebooks ($12
+Quantity: 12
+Item: Looseleaf paper or spiral notebooks 
+
+Input String: for six, amazon.com)
+Comment: for six amazoncom
+
+Input String: ? Subject dividers ($5, amazon.com)
+Item: Subject dividers 5 amazoncom
+
+Input String: ? Index cards ($3, amazon.com)
+Item: Index cards 3 amazoncom
+
+Input String: ? Folders ($15 for six, amazon.com)
+Comment: Folders 15 for six amazoncom
+
+Input String: ? Blue or black pens ($7, amazon.com)
+Item: Blue or black pens 7 amazoncom
+
+Input String: ? Mechanical pencils ($5, amazon.com)
+Item: Mechanical pencils 5 amazoncom
+
+Input String: ? Permanent markers ($8, amazon.com)
+Item: Permanent markers 8 amazoncom
+
+Input String: ? Highlighters ($7, amazon.com)
+Item: Highlighters 7 amazoncom
+
+Input String: ? Erasers ($3, amazon.com)
+Item: Erasers 3 amazoncom
+
+Input String: ? Pencil case ($7 for two, amazon.com)
+Comment: Pencil case 7 for two amazoncom
+
+Input String: ? Scissors ($6, amazon.com)
+Item: Scissors 6 amazoncom
+
+Input String: ? Stapler and staples ($1 1, amazon.com)
+None: Stapler and staples 1 1 amazoncom
+
+Input String: ? Tape ($5 for three, amazon.com)
+Comment: Tape 5 for three amazoncom
+
+Input String: ? Post-Its ($6, amazon.com)
+Item: PostIts 6 amazoncom
+
+Input String: ? White-Out ($6, amazon.com)
+Comment: WhiteOut 6 amazoncom
+
+Input String: ? Personal organizer/calendar ($11,
+Quantity: 11
+Item: Personal organizercalendar 
+
+Input String: amazon.com)
+Item: amazoncom
+
+Input String: ? Graphing calculator ($102, amazon.com)
+None: Graphing calculator 102 amazoncom
+
+Input String: ? Book bag ($30, amazon.com)
+Item: Book bag 30 amazoncom
+
+Input String: ? Laptop($1,150, amazon.com)
+Item: Laptop1150 amazoncom
+
+Input String: ? Printer ($65, amazon.com)
+Item: Printer 65 amazoncom
+
+Input String: ? Computer paper ($12, amazon.com)
+Item: Computer paper 12 amazoncom
+
+Input String: ? Ink cartridges ($30, amazon.com)
+None: Ink cartridges 30 amazoncom
+
+Input String: ?f?
+Item: f
+

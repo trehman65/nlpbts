@@ -1,0 +1,123 @@
+Input String: 1 Back to Mail           5:56 PM              VPN O i ] *
+Quantity: 1
+Item:  Back to Mail           556 PM              VPN O i 
+
+Input String: msg.schoolmessenger.com
+Item: msgschoolmessengercom
+
+Input String: Kindergarten Supply List 2016-2017
+Quantity: 20162017
+Item: Kindergarten Supply List 
+
+Input String: The following are for Shared Classroom use
+Comment: The following are for Shared Classroom use
+
+Input String: DO NOT label with child's name
+Comment: DO NOT label with childs name
+
+Input String: 2 Boxes of 12 sharpened Ticonderoga pencils (others break too easily) No decorative pencils
+Quantity: 2
+Item:  Boxes of 12 sharpened Ticonderoga pencils others break too easily No decorative pencils
+
+Input String: 3 Erasers - not decorative
+Quantity: 3
+Item:  Erasers  not decorative
+
+Input String: 3 Large containers of Baby Wipes
+Quantity: 3
+Item:  Large containers of Baby Wipes
+
+Input String: 3 Large boxes of Kleenex
+Quantity: 3
+Item:  Large boxes of Kleenex
+
+Input String: 3 Large containers of Lysol Wipes
+Quantity: 3
+Item:  Large containers of Lysol Wipes
+
+Input String: 3 Reams (500 ct.) Pastel colored paper
+Quantity: 3
+Item:  Reams 500 ct Pastel colored paper
+
+Input String: 10 Glue sticks (regular size, not large)
+Quantity: 10
+Item:  Glue sticks regular size not large
+
+Input String: 1 Roll Paper Towels
+Quantity: 1
+Item:  Roll Paper Towels
+
+Input String: 1 Box of Band-Aid's
+Quantity: 1
+Item:  Box of BandAids
+
+Input String: Label the following items with your
+Comment: Label the following items with your
+
+Input String: Child's name in permanent marker
+Comment: Childs name in permanent marker
+
+Input String: 1 Medium size tote bag - Can be found at Michael's and Lakeshore
+Quantity: 1
+Item:  Medium size tote bag  Can be found at Michaels and Lakeshore
+
+Input String: (two handles, big enough for a folder about 14", NO backpacks they will he sent home)
+Quantity: two
+Item:  handles big enough for a folder about 14 NO backpacks they will he sent home
+
+Input String: 1 Supply box (plastic, no bigger than B"x5")
+Quantity: 1
+Item:  Supply box plastic no bigger than Bx5
+
+Input String: 4 Boxes of Crayola Crayons- 16 count, basic colors ? "NO" fat crayons
+Quantity: 4
+Item:  Boxes of Crayola Crayons 16 count basic colors  NO fat crayons
+
+Input String: (larger boxes or fat crayons will be sent home/Crayola brand colors are best)
+Comment: larger boxes or fat crayons will be sent homeCrayola brand colors are best
+
+Input String: 1 Pair of scissors (metal tips)
+Quantity: 1
+Item:  Pair of scissors metal tips
+
+Input String: 3 Folders with pockets on the bottom
+Quantity: 3
+Item:  Folders with pockets on the bottom
+
+Input String: 1 Tray of watercolors (Basic 8 colors - Crayola brand are best)
+Quantity: 1
+Item:  Tray of watercolors Basic 8 colors  Crayola brand are best
+
+Input String: 1 Paint apron
+Quantity: 1
+Item:  Paint apron
+
+Input String: 1(4pack) Play-Doh
+Quantity: 14pack
+Item:  PlayDoh
+
+Input String: Come to school with one box of crayons, 1 glue stick and scissors in your supply box.
+Comment: Come to school with one box of crayons 1 glue stick and scissors in your supply box
+
+Input String: Have all other supplies in a bag with your child's name on the bag so we can check off
+Comment: Have all other supplies in a bag with your childs name on the bag so we can check off
+
+Input String: our supply list.
+Item: our supply list
+
+Input String: 1 snack bag and 1 lunch bag (separate bags please)
+Quantity: 1
+Item:  snack bag and 1 lunch bag separate bags please
+
+Input String: Please send a complete change of clothes, including socks, in a large Ziploc bag
+Comment: Please send a complete change of clothes including socks in a large Ziploc bag
+
+Input String: labeled with your child's name. It does not have to be a uniform.
+Comment: labeled with your childs name It does not have to be a uniform
+
+Input String: "NO BACKPACKS"
+Comment: NO BACKPACKS
+
+Input String: FT] Q]
+Item: FT Q
+

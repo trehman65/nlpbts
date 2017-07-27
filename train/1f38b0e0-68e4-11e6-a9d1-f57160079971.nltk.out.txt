@@ -1,0 +1,146 @@
+Input String: ??000 AT&T LTE             9:02 PM
+Quantity: 000
+Item:  ATT LTE             902 PM
+
+Input String: drive.google.com
+Item: drivegooglecom
+
+Input String: PDF supplylist3.pdf                            Sign In
+Comment: PDF supplylist3pdf                            Sign In
+
+Input String: tri-ir Back
+Comment: triir Back
+
+Input String: to
+Comment: to
+
+Input String: School
+Item: School
+
+Input String: 2016-17 Third Grade Supply List
+Quantity: 201617
+Item:  Third Grade Supply List
+
+Input String: ? 3 hard covered marble notebooks (wide ruled)
+Quantity: 3
+Item:  hard covered marble notebooks wide ruled
+
+Input String: 'lease label books at Mme:
+Comment: lease label books at Mme
+
+Input String: L Reading 6 Writing
+None: L Reading 6 Writing
+
+Input String: 2. Math
+Quantity: 2
+Item:  Math
+
+Input String: 3. Spel/ig and 6 ommar
+Quantity: 3
+Item:  Spelig and 6 ommar
+
+Input String: ? 1inch hard covered binder-
+Quantity: 1inch
+Item:  hard covered binder
+
+Input String: ? 50 pack of sheet protectors (placed in the binder)
+Quantity: 50
+Item:  pack of sheet protectors placed in the binder
+
+Input String: ? 5 sturdy plastic two-pocket folders
+Quantity: 5
+Item:  sturdy plastic twopocket folders
+
+Input String: 'Please label folders at home: ~y
+Comment: Please label folders at home y
+
+Input String: I. Red-Homework 6 on the inside one pocket as HW the other os Stay's Home
+Comment: I RedHomework 6 on the inside one pocket as HW the other os Stays Home
+
+Input String: Z Yellow-Music
+Item: Z YellowMusic
+
+Input String: 3. Green-Soda/ Sties d Science
+Quantity: 3
+Item:  GreenSoda Sties d Science
+
+Input String: 4. Blue-In School
+Quantity: 4
+Item:  BlueIn School
+
+Input String: 5. Purpk-Privacy
+Quantity: 5
+Item:  PurpkPrivacy
+
+Input String: ? 12 Elmer's glue sticks
+Quantity: 12
+Item:  Elmers glue sticks
+
+Input String: ? 1 bottle of Elmers glue
+Quantity: 1
+Item:  bottle of Elmers glue
+
+Input String: ? crayons (at least 24)
+Quantity: 24
+Item: crayons at least 
+
+Input String: ? Crayola Broad Line markers
+Item: Crayola Broad Line markers
+
+Input String: ? Scissors
+Item: Scissors
+
+Input String: ? 6 Ni-Liters
+Quantity: 6
+Item:  NiLiters
+
+Input String: ? Pencils (5 packs of twelve) Sharpened Please
+Comment: Pencils 5 packs of twelve Sharpened Please
+
+Input String: ? Plastic pencil box
+Item: Plastic pencil box
+
+Input String: ? Girls only 1 box of 24 quart size zip-lock bags
+Comment: Girls only 1 box of 24 quart size ziplock bags
+
+Input String: ? Boys only 1 box on 24 gallon size zip-lock bags
+Comment: Boys only 1 box on 24 gallon size ziplock bags
+
+Input String: ? 2 boxes of tissues are recommended
+Quantity: 2
+Item:  boxes of tissues are recommended
+
+Input String: ? 4 Dry erase markers (dark colors work best)
+Quantity: 4
+Item:  Dry erase markers dark colors work best
+
+Input String: ? Eraser for dry erase morkers (washcloth or sock is fine too)
+Comment: Eraser for dry erase morkers washcloth or sock is fine too
+
+Input String: ? Pencil Sharpener
+Item: Pencil Sharpener
+
+Input String: ? MUMBO size fabric book cover
+Item: MUMBO size fabric book cover
+
+Input String: ? A Clipboard is recommended
+Comment: A Clipboard is recommended
+
+Input String: ? An art smock (labeled and placed in a Zip Loc bag)
+Comment: An art smock labeled and placed in a Zip Loc bag
+
+Input String: "Mrs. Monaco's class will need a fourth composition notebook labeled Social Sees and
+Comment: Mrs Monacos class will need a fourth composition notebook labeled Social Sees and
+
+Input String: Science
+Subject: Science
+
+Input String: d ukase label all materiels with your child's name and class section or teachers name prior to
+Comment: d ukase label all materiels with your childs name and class section or teachers name prior to
+
+Input String: '""P/ease note MdiYid / teachers may request additional 'uptakes.
+Comment: Pease note MdiYid  teachers may request additional uptakes
+
+Input String: ri
+Item: ri
+

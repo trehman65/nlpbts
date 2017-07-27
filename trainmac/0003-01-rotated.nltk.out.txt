@@ -1,0 +1,84 @@
+Input String: GRADE 5
+Quantity: 5
+Item: GRADE 
+
+Input String: 12 No. 2 pencils (SHARPENED)
+Quantity: 12
+Item:  No 2 pencils SHARPENED
+
+Input String: 48 ct. (or larger) crayons
+Quantity: 48
+Item:  ct or larger crayons
+
+Input String: scissors
+Item: scissors
+
+Input String: Crayola markers (thick or thin)
+Comment: Crayola markers thick or thin
+
+Input String: 2 different color highlighters
+Quantity: 2
+Item:  different color highlighters
+
+Input String: 5 dry erase markers (NO YELLOW)
+Quantity: 5
+Item:  dry erase markers NO YELLOW
+
+Input String: 1 black FINE point Sharpie marker for class
+Quantity: 1
+Item:  black FINE point Sharpie marker for class
+
+Input String: 1 black ULTRA FINE pt. Sharpie for class
+Quantity: 1
+Item:  black ULTRA FINE pt Sharpie for class
+
+Input String: 1 black Sharpie marker for art class
+Quantity: 1
+Item:  black Sharpie marker for art class
+
+Input String: 24 (or larger) colored pencils
+Quantity: 24
+Item:  or larger colored pencils
+
+Input String: 3 composition notebooks (green, purple, black)
+Quantity: 3
+Item:  composition notebooks green purple black
+
+Input String: 1 bottle of Elmer's glue
+Quantity: 1
+Item:  bottle of Elmers glue
+
+Input String: 6 large glue sticks
+Quantity: 6
+Item:  large glue sticks
+
+Input String: pocket dictionary
+Item: pocket dictionary
+
+Input String: 2 pens (1 red and 1 blue or black)
+Quantity: 2
+Item:  pens 1 red and 1 blue or black
+
+Input String: 1 durable, plastic, expandable folder with at least 10 compartments
+Quantity: 1
+Item:  durable plastic expandable folder with at least 10 compartments
+
+Input String: set of 10 dividers
+Comment: set of 10 dividers
+
+Input String: 1 pkg. wide-ruled notebook paper
+Quantity: 1
+Item:  pkg wideruled notebook paper
+
+Input String: One 1" binder (red)
+Quantity: One
+Item:  1 binder red
+
+Input String: 1 spiral notebook (yellow)
+Quantity: 1
+Item:  spiral notebook yellow
+
+Input String: 2 LARGE boxes of facial tissue
+Quantity: 2
+Item:  LARGE boxes of facial tissue
+

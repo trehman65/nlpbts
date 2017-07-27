@@ -1,0 +1,41 @@
+Input String: ???oo Virgin ? 12:25 PM 98%M.
+Quantity: 98M
+Item: oo Virgin  1225 PM 
+
+Input String: cvalleycsd.org
+Item: cvalleycsdorg
+
+Input String: loose leaf paper
+Item: loose leaf paper
+
+Input String: scientific calculator (optional
+Item: scientific calculator optional
+
+Input String: pens (blue/black)
+Item: pens blueblack
+
+Input String: pencils
+Item: pencils
+
+Input String: ieometry
+Item: ieometry
+
+Input String: 2" or 3" three-ring binder
+Quantity: 2
+Item:  or 3 threering binder
+
+Input String: loose leaf paper
+Item: loose leaf paper
+
+Input String: pens (blue/black)
+Item: pens blueblack
+
+Input String: algebra II
+Subject: algebra II
+
+Input String: notebook
+Item: notebook
+
+Input String: pens (blue/black)
+Item: pens blueblack
+

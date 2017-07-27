@@ -1,0 +1,46 @@
+Input String: Grade 8
+Quantity: 8
+Item: Grade 
+
+Input String: for rM1is class)
+Comment: for rM1is class
+
+Input String: Mck.t 4.klm
+Quantity: 4klm
+Item: Mckt 
+
+Input String: BIuc and/or Irk& pens (2 ad)
+None: BIuc andor Irk pens 2 ad
+
+Input String: Pcncolx (2 min.)
+Item: Pcncolx 2 min
+
+Input String: Public li card
+Comment: Public li card
+
+Input String: 1u! (NO LIQUID)
+Quantity: 1u
+Item:  NO LIQUID
+
+Input String: Vcrumal tapar
+Item: Vcrumal tapar
+
+Input String: R prro.r mrker.
+Item: R prror mrker
+
+Input String: maTrm,
+Item: maTrm
+
+Input String: a mrfhcuble border (hard binder is unacceptable)
+Comment: a mrfhcuble border hard binder is unacceptable
+
+Input String: Loose leaf paper
+Item: Loose leaf paper
+
+Input String: index cards
+Item: index cards
+
+Input String: $14.00 (rash) towards ELw test prep workbook
+Quantity: 1400
+Item:  rash towards ELw test prep workbook
+

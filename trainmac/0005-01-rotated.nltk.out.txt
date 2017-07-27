@@ -1,0 +1,22 @@
+Input String: n^-to-,Av. r fr
+Item: ntoAv r fr
+
+Input String: 'i?nN t,Hr                                43
+Quantity: 43
+Item: inN tHr                                
+
+Input String: 1-S '.'c:?-.~. 5' A' :s1? ,_.i`~~y'q~~. `~ !MKIw M,I~Ft'I44.?         4yFyyUU{~L~~~~ppUL uy~siu ui
+Quantity: 1S
+Item:  c 5 A s1 iyq  MKIw MIFtI44         4yFyyUULppUL uysiu ui
+
+Input String: 4th Grade Supply list
+Quantity: 4th
+Item:  Grade Supply list
+
+Input String: Protractor. Plastic, Clear 8", 180 degrees
+Item: Protractor Plastic Clear 8 180 degrees
+
+Input String: Colored Pencils, 7" Sharpened, 8/set
+Quantity: 8set
+Item: Colored Pencils 7 Sharpened 
+

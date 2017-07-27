@@ -1,0 +1,24 @@
+Input String: ?woo AT&T o 9:16 AM 1071%11
+Quantity: 107111
+Item: woo ATT o 916 AM 
+
+Input String: Notes
+Item: Notes
+
+Input String: 1 pencil case
+Quantity: 1
+Item:  pencil case
+
+Input String: Pack of sticky notes
+Comment: Pack of sticky notes
+
+Input String: Highlighters
+Item: Highlighters
+
+Input String: Notebooks
+Item: Notebooks
+
+Input String: 0
+Quantity: 0
+Item: 
+

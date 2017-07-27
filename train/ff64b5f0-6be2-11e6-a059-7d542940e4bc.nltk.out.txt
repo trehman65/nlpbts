@@ -1,0 +1,110 @@
+Input String: 1 Back to Hewlett-Woodmer... 10:47 PM L @ 1 4 44% [1.*
+Quantity: 1
+Item:  Back to HewlettWoodmer 1047 PM L  1 4 44 1
+
+Input String: hewlett-woodmere.net
+Item: hewlettwoodmerenet
+
+Input String: ome / WMS Memos I Summer Reading List and Assignments - 2016-2017
+Quantity: 20162017
+Item: ome  WMS Memos I Summer Reading List and Assignments  
+
+Input String: WOODMERE MIDDLE SCHOOL
+Comment: WOODMERE MIDDLE SCHOOL
+
+Input String: SEVENTH GRADE SUPPLY LIST
+Comment: SEVENTH GRADE SUPPLY LIST
+
+Input String: 2016-17
+Quantity: 201617
+Item: 
+
+Input String: ? One pencil case that contains:
+Quantity: One
+Item:  pencil case that contains
+
+Input String: o Pens (black, blue and red)
+Comment: o Pens black blue and red
+
+Input String: o Pencils with erasers
+Comment: o Pencils with erasers
+
+Input String: o Colored pencils
+Comment: o Colored pencils
+
+Input String: o White correction fluid/tape
+Item: o White correction fluidtape
+
+Input String: o 5 highlighters (5 different colors)
+Comment: o 5 highlighters 5 different colors
+
+Input String: o Glue sticks (4 packs)
+Item: o Glue sticks 4 packs
+
+Input String: o Scissors
+Item: o Scissors
+
+Input String: ? Two - 2.5 inch binders (7B only)
+Quantity: Two
+Item:   25 inch binders 7B only
+
+Input String: ? 5 boxes of tissues for student's period 1 teacher
+Quantity: 5
+Item:  boxes of tissues for students period 1 teacher
+
+Input String: ? Dividers for each binder
+Comment: Dividers for each binder
+
+Input String: ? Plenty of loose-leaf paper
+Comment: Plenty of looseleaf paper
+
+Input String: ? Ruler
+Item: Ruler
+
+Input String: ? Scientific calculator
+Item: Scientific calculator
+
+Input String: ? 3 x 3 Post-its (we will use at least 10 packs over the entire year)
+Quantity: 3
+Item:  x 3 Postits we will use at least 10 packs over the entire year
+
+Input String: ? 1,000 3x5 index cards
+Quantity: 1000
+Item:  3x5 index cards
+
+Input String: ? 2 Single subject college ruled spiral notebooks for ELA
+Quantity: 2
+Item:  Single subject college ruled spiral notebooks for ELA
+
+Input String: ? Two, two Pocket Folders with metal prongs for secure paper
+Quantity: Two
+Item:  two Pocket Folders with metal prongs for secure paper
+
+Input String: storage (for ELA)
+Comment: storage for ELA
+
+Input String: ? Flash Drive (7C only)
+Comment: Flash Drive 7C only
+
+Input String: ? Optional Spanish/French/Mandarin Chinese ? English Dictionary
+Item: Optional SpanishFrenchMandarin Chinese  English Dictionary
+
+Input String: depending on course selection
+Comment: depending on course selection
+
+Input String: ? Large Zip-Lock Bags (to house novels)
+Item: Large ZipLock Bags to house novels
+
+Input String: ? 3 marble composition notebooks with graph paper instead of
+Quantity: 3
+Item:  marble composition notebooks with graph paper instead of
+
+Input String: lined sheets for Math (7C only)
+Comment: lined sheets for Math 7C only
+
+Input String: Iuestions or Feedback? 1 Blackboard Schoolwires Privacy Policy (Updated) 1 Terms of Use
+Comment: Iuestions or Feedback 1 Blackboard Schoolwires Privacy Policy Updated 1 Terms of Use
+
+Input String: Copyright ? 2002-2016 Blackboard, Inc. All rights reserved.
+Comment: Copyright  20022016 Blackboard Inc All rights reserved
+

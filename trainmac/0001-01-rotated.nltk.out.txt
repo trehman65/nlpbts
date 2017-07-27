@@ -1,0 +1,36 @@
+Input String: 5 subject loose leaf binder with dividers and Graph paper
+Quantity: 5
+Item:  subject loose leaf binder with dividers and Graph paper
+
+Input String: sample paper                                  Ruler
+Item: sample paper                                  Ruler
+
+Input String: 6 two-pocket folders for handouts             Texas Instrument 84+ scientific calculator
+Quantity: 6
+Item:  twopocket folders for handouts             Texas Instrument 84 scientific calculator
+
+Input String: Pens, pencils, highlighters and markers       (Model T1 83 or 84+)
+Quantity: 84
+Item: Pens pencils highlighters and markers       Model T1 83 or 
+
+Input String: Access to a working computer and printer      Graph paper
+Comment: Access to a working computer and printer      Graph paper
+
+Input String: College dictionary (to be left at home)       Map of the USA showing states, capitals, rivers,
+Comment: College dictionary to be left at home       Map of the USA showing states capitals rivers
+
+Input String: 1 two-pocket folder                           lakes and mountains
+Quantity: 1
+Item:  twopocket folder                           lakes and mountains
+
+Input String: 19 * x 7 4. Hard-cover, 200 page composition  Current world map showing all nations and
+Quantity: 19
+Item:   x 7 4 Hardcover 200 page composition  Current world map showing all nations and
+
+Input String: notebook                                      capitals (fitted to binder and hole punched)
+Comment: notebook                                      capitals fitted to binder and hole punched
+
+Input String: $12 for Science World subscription
+Quantity: 12
+Item:  for Science World subscription
+

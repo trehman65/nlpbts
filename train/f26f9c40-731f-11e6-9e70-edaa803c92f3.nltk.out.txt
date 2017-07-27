@@ -1,0 +1,87 @@
+Input String: ????o Sprint 6 12:15 AM 1 69% (WI.
+None: o Sprint 6 1215 AM 1 69 WI
+
+Input String: echalk-slate-prod.s3.amazonaws.com
+Item: echalkslateprods3amazonawscom
+
+Input String: Grade 2 Supply List 2016-2017
+Quantity: 20162017
+Item: Grade 2 Supply List 
+
+Input String: These are the supplies needed for your
+Comment: These are the supplies needed for your
+
+Input String: second grade year! Thank you for your
+Comment: second grade year Thank you for your
+
+Input String: support.
+Item: support
+
+Input String: 2 ? Grade 3 soft red cover handwriting notebooks
+Quantity: 2
+Item:   Grade 3 soft red cover handwriting notebooks
+
+Input String: 8 - Composition Books, Marble Cover
+Quantity: 8
+Item:   Composition Books Marble Cover
+
+Input String: 2 - folders
+Quantity: 2
+Item:   folders
+
+Input String: 1 ? pencil case
+Quantity: 1
+Item:   pencil case
+
+Input String: 1 - box sharpened pencils
+Quantity: 1
+Item:   box sharpened pencils
+
+Input String: 1 ? pair child scissors
+Quantity: 1
+Item:   pair child scissors
+
+Input String: 8 ? glue sticks
+Quantity: 8
+Item:   glue sticks
+
+Input String: 1 ? box markers
+Quantity: 1
+Item:   box markers
+
+Input String: 2 ? 8 count boxes of crayons
+Quantity: 2
+Item:   8 count boxes of crayons
+
+Input String: 1 ? box colored pencils
+Quantity: 1
+Item:   box colored pencils
+
+Input String: 3 ? packs of copy paper
+Quantity: 3
+Item:   packs of copy paper
+
+Input String: 2 - boxes of tissues
+Quantity: 2
+Item:   boxes of tissues
+
+Input String: 3 - rolls of paper towel
+Quantity: 3
+Item:   rolls of paper towel
+
+Input String: 3 ? baby wipes
+Quantity: 3
+Item:   baby wipes
+
+Input String: 3 ? Clorox wipes
+Quantity: 3
+Item:   Clorox wipes
+
+Input String: 1 ? hand sanitizer
+Quantity: 1
+Item:   hand sanitizer
+
+Input String: 1 ? gallon zip lock bags
+Quantity: 1
+Item:   gallon zip lock bags
+

@@ -1,0 +1,94 @@
+Input String: moo T-Mobile ? 10:05 PM @ 33%I I.
+Item: moo TMobile  1005 PM  33I I
+
+Input String: docs.google.com
+Item: docsgooglecom
+
+Input String: F School Supply List
+Item: F School Supply List
+
+Input String: List
+Item: List
+
+Input String: 1.Led/Mechanical pencils
+Quantity: 1LedMechanical
+Item:  pencils
+
+Input String: 2. Highlighter
+Quantity: 2
+Item:  Highlighter
+
+Input String: 3.Sharpie
+Quantity: 3Sharpie
+Item: 
+
+Input String: 4.5 Subject Notebook
+Quantity: 45
+Item:  Subject Notebook
+
+Input String: 5.Backpack
+Quantity: 5Backpack
+Item: 
+
+Input String: 6.Headphones
+Item: 6Headphones
+
+Input String: 7.Colorful Pens
+Quantity: 7Colorful
+Item:  Pens
+
+Input String: 8.Binder
+Quantity: 8Binder
+Item: 
+
+Input String: 9.Paper
+Quantity: 9Paper
+Item: 
+
+Input String: 10.Composition Notebook
+Quantity: 10Composition
+Item:  Notebook
+
+Input String: 11.Glue
+Quantity: 11Glue
+Item: 
+
+Input String: 12. Crayons and Markers
+Quantity: 12
+Item:  Crayons and Markers
+
+Input String: 13. Dry Erase Markers
+Quantity: 13
+Item:  Dry Erase Markers
+
+Input String: 14. Post-it
+Quantity: 14
+Item:  Postit
+
+Input String: 15.Pencil Cup
+Quantity: 15Pencil
+Item:  Cup
+
+Input String: 16.White Out Tape
+Quantity: 16White
+Item:  Out Tape
+
+Input String: 17.Calculator
+Quantity: 17Calculator
+Item: 
+
+Input String: 18. Folder
+Quantity: 18
+Item:  Folder
+
+Input String: 19.Divider
+Quantity: 19Divider
+Item: 
+
+Input String: 20. Pencil Bag
+Quantity: 20
+Item:  Pencil Bag
+
+Input String: m
+Item: m
+

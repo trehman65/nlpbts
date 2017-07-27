@@ -1,0 +1,108 @@
+Input String: ???oo Verizon LTE 8:38 AM      @178
+Quantity: 178
+Item: oo Verizon LTE 838 AM      
+
+Input String: bhg.polk-fl.net
+Item: bhgpolkflnet
+
+Input String: Patti McGill, Principal
+Comment: Patti McGill Principal
+
+Input String: Schl
+Item: Schl
+
+Input String: Third Grade
+Item: Third Grade
+
+Input String: 1-(one inch) white 3 ring binder (may need to be
+Quantity: 1one
+Item:  inch white 3 ring binder may need to be
+
+Input String: replaced during the year
+Comment: replaced during the year
+
+Input String: 3 packs (150 sheets) wide-ruled notebook paper
+Quantity: 3
+Item:  packs 150 sheets wideruled notebook paper
+
+Input String: 4 packs of 12 -#2 pencils- (replace when needed)
+Quantity: 4
+Item:  packs of 12 2 pencils replace when needed
+
+Input String: 4 folders with prongs (1 each- red, blue, green, yellov
+Quantity: 4
+Item:  folders with prongs 1 each red blue green yellov
+
+Input String: 1 package of Glue Sticks (2 per pack)
+Quantity: 1
+Item:  package of Glue Sticks 2 per pack
+
+Input String: 1 pack crayons
+Quantity: 1
+Item:  pack crayons
+
+Input String: 2 large pink erasers
+Quantity: 2
+Item:  large pink erasers
+
+Input String: 1 box of tissues
+Quantity: 1
+Item:  box of tissues
+
+Input String: 1 box freezer bags (girls-gallon size boys-quart size)
+Quantity: 1
+Item:  box freezer bags girlsgallon size boysquart size
+
+Input String: 6 spiral notebooks (variety of colors) 70 sheets
+Quantity: 6
+Item:  spiral notebooks variety of colors 70 sheets
+
+Input String: 1 soft pencil bag
+Quantity: 1
+Item:  soft pencil bag
+
+Input String: No mechanical pencils
+Comment: No mechanical pencils
+
+Input String: 3rd Grade Wish List:
+Quantity: 3rd
+Item:  Grade Wish List
+
+Input String: Recorder for Music
+Comment: Recorder for Music
+
+Input String: Fourth Grade
+Item: Fourth Grade
+
+Input String: 2 packs of 48 42 pencils replace when needed
+Quantity: 2
+Item:  packs of 48 42 pencils replace when needed
+
+Input String: 4 packs wide-ruled notebook paper
+Quantity: 4
+Item:  packs wideruled notebook paper
+
+Input String: 6 spiral notebooks (variety of colors)
+Quantity: 6
+Item:  spiral notebooks variety of colors
+
+Input String: 6 folders with prongs (variety of colors)
+Quantity: 6
+Item:  folders with prongs variety of colors
+
+Input String: 2 packages cap erasers
+Quantity: 2
+Item:  packages cap erasers
+
+Input String: 1 soft pencil bag
+Quantity: 1
+Item:  soft pencil bag
+
+Input String: 1 (24 count) crayons
+Quantity: 1
+Item:  24 count crayons
+
+Input String: 1 pair safety scissors
+Quantity: 1
+Item:  pair safety scissors
+

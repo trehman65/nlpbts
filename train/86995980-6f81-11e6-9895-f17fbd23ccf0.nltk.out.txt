@@ -1,0 +1,58 @@
+Input String: 11:14 PM L @ IW.
+Quantity: 1114
+Item:  PM L  IW
+
+Input String: 4 0 freshman supply list
+Quantity: 4
+Item:  0 freshman supply list
+
+Input String: ALL IMAGES SHOPPING VIDEOS
+Comment: ALL IMAGES SHOPPING VIDEOS
+
+Input String: High School
+Item: High School
+
+Input String: ? Agenda or planner to keep track of
+Comment: Agenda or planner to keep track of
+
+Input String: homework assignments.
+Item: homework assignments
+
+Input String: ? Backpack.
+Item: Backpack
+
+Input String: ? Binder dividers.
+Item: Binder dividers
+
+Input String: ? 1 binder per subject.
+Quantity: 1
+Item:  binder per subject
+
+Input String: ? 1 folder per subject for handouts.
+Quantity: 1
+Item:  folder per subject for handouts
+
+Input String: ? Calculator, if allowed.
+Comment: Calculator if allowed
+
+Input String: ? 2 highlighters in different colors.
+Quantity: 2
+Item:  highlighters in different colors
+
+Input String: ? 1 pack of No. 2 pencils (12-count)
+Quantity: 1
+Item:  pack of No 2 pencils 12count
+
+Input String: More items...
+Comment: More items
+
+Input String: Back-to-School Supplies Checklist 1
+Quantity: 1
+Item: BacktoSchool Supplies Checklist 
+
+Input String: Real Simple
+Item: Real Simple
+
+Input String: www.realsimple.com > kids-parenting
+Comment: wwwrealsimplecom  kidsparenting
+

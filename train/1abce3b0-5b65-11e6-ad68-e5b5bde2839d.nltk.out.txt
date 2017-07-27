@@ -1,0 +1,99 @@
+Input String: ???oo AT&T LTE 6:33 PM                1 0
+Quantity: 0
+Item: oo ATT LTE 633 PM                1 
+
+Input String: 1               salem.k12.mo.us
+Quantity: 1
+Item:                salemk12mous
+
+Input String: Salem 11-80 Upper Elementary School
+Item: Salem 1180 Upper Elementary School
+
+Input String: Fourth Grade Supply List
+Comment: Fourth Grade Supply List
+
+Input String: Classroom Supplies
+Item: Classroom Supplies
+
+Input String: Number Item
+Item: Number Item
+
+Input String: 3 dozen #Oz pencils
+Quantity: 3
+Item:  dozen Oz pencils
+
+Input String: Package Index Cards
+Item: Package Index Cards
+
+Input String: Green folder with brads
+Comment: Green folder with brads
+
+Input String: Blue folder with brads
+Comment: Blue folder with brads
+
+Input String: Yellow folder with brads
+Comment: Yellow folder with brads
+
+Input String: Red folder with brads
+Comment: Red folder with brads
+
+Input String: Purple folder with brads
+Comment: Purple folder with brads
+
+Input String: Composition Notebook
+Item: Composition Notebook
+
+Input String: Boxes of tissue
+Comment: Boxes of tissue
+
+Input String: Large white erasers
+Item: Large white erasers
+
+Input String: z packs Dry erase markers
+Item: z packs Dry erase markers
+
+Input String: wash cloth to use as a white board eraser
+Comment: wash cloth to use as a white board eraser
+
+Input String: z packages of wide-rule loose leaf paper
+Comment: z packages of widerule loose leaf paper
+
+Input String: Boys: z bottle of hand soap
+Comment: Boys z bottle of hand soap
+
+Input String: Girls: o canister of antibacterial wipes
+Comment: Girls o canister of antibacterial wipes
+
+Input String: Art Supplies
+Item: Art Supplies
+
+Input String: Art can
+Comment: Art can
+
+Input String: White glue
+Item: White glue
+
+Input String: Color Pencils
+Item: Color Pencils
+
+Input String: Scissors
+Item: Scissors
+
+Input String: Crayons, three ring binder and markers are optional.
+None: Crayons three ring binder and markers are optional
+
+Input String: P.E. Supplies
+Item: PE Supplies
+
+Input String: I. pair of clean tennis shoesto leave at school
+Comment: I pair of clean tennis shoesto leave at school
+
+Input String: Tennis shoes do not have to be new, but they must be washed. These are required for Auden.
+Comment: Tennis shoes do not have to be new but they must be washed These are required for Auden
+
+Input String: to participate in P.E.
+Comment: to participate in PE
+
+Input String: H
+Item: H
+

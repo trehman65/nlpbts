@@ -1,0 +1,90 @@
+Input String: w000 AT&T 6                                                                                        1:16 PM @ 0 77%I I.
+None: w000 ATT 6                                                                                        116 PM  0 77I I
+
+Input String: bel lmore-merrick. k12.ny.us
+Item: bel lmoremerrick k12nyus
+
+Input String: Merrick Avenue Middle School
+Item: Merrick Avenue Middle School
+
+Input String: Supply List
+Item: Supply List
+
+Input String: 2016-2017
+Quantity: 20162017
+Item: 
+
+Input String: 3 Five Saar Flex' Hybrid Noaebinder, 1-l/2' College Ruled
+Quantity: 3
+Item:  Five Saar Flex Hybrid Noaebinder 1l2 College Ruled
+
+Input String: 1 Marble Composition Notebook
+Quantity: 1
+Item:  Marble Composition Notebook
+
+Input String: 2 packages of college ruled whim filler paper (reinforced)
+Quantity: 2
+Item:  packages of college ruled whim filler paper reinforced
+
+Input String: 1 portable punch, 3-hole
+Quantity: 1
+Item:  portable punch 3hole
+
+Input String: 2 dozen #2 pencils (mechanical or standard)
+Quantity: 2
+Item:  dozen 2 pencils mechanical or standard
+
+Input String: 2 dozen pens (black or blue)
+Quantity: 2
+Item:  dozen pens black or blue
+
+Input String: 1 package of multi-colored highlighters
+Quantity: 1
+Item:  package of multicolored highlighters
+
+Input String: 1 package colored pencils (12)
+Quantity: 1
+Item:  package colored pencils 12
+
+Input String: 1 plusstickscast,
+Quantity: 1
+Item:  plusstickscast
+
+Input String: m 1 pencil oat, fabric with 3-hole grommets
+Comment: m 1 pencil oat fabric with 3hole grommets
+
+Input String: 1 Flexible ruler (standard and metric)
+Quantity: 1
+Item:  Flexible ruler standard and metric
+
+Input String: 1 package of graph paper"
+Quantity: 1
+Item:  package of graph paper
+
+Input String: 4 packages of 3x5 index cards
+Quantity: 4
+Item:  packages of 3x5 index cards
+
+Input String: 1 calculator
+Quantity: 1
+Item:  calculator
+
+Input String: ?     TI-30X111 scientific calculator (all T" grade and 8R math classes)
+Comment: TI30X111 scientific calculator all T grade and 8R math classes
+
+Input String: ?     TI-84 Plus (Common Core Algebra 8).Graph Papauu,dMaem dehreSe r rvamam
+Item: TI84 Plus Common Core Algebra 8Graph PapauudMaem dehreSe r rvamam
+
+Input String: Samea
+Item: Samea
+
+Input String: Iterrennybezazuesred byrbeclasrem reader
+Comment: Iterrennybezazuesred byrbeclasrem reader
+
+Input String: 11d.reams ecradr~.m5nowman please. .e,~r.n,rdy,2 Fr,.rtr.eam~.aoemedk
+Quantity: 11dreams
+Item:  ecradrm5nowman please ernrdy2 Frrtreamaoemedk
+
+Input String: H
+Item: H
+

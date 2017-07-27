@@ -1,0 +1,181 @@
+Input String: ?u000 AT&T LTE 6:33 PM     1 V *
+None: u000 ATT LTE 633 PM     1 V
+
+Input String: salem.k12.mo.us
+Comment: salemk12mous
+
+Input String: Salem Middle School
+Item: Salem Middle School
+
+Input String: 1 of 1
+Quantity: 1
+Item:  of 1
+
+Input String: Sixth-Grade Supply List
+Comment: SixthGrade Supply List
+
+Input String: 2016-2017
+Quantity: 20162017
+Item: 
+
+Input String: Chtosroom Supplies
+Item: Chtosroom Supplies
+
+Input String: 1 Pocket folder? with three holes punched- No brads
+Quantity: 1
+Item:  Pocket folder with three holes punched No brads
+
+Input String: 2 Packages of notebook paper
+Quantity: 2
+Item:  Packages of notebook paper
+
+Input String: 3 Packages #2 pencils
+Quantity: 3
+Item:  Packages 2 pencils
+
+Input String: 1 Large pink eraser
+Quantity: 1
+Item:  Large pink eraser
+
+Input String: 1 Highlighter
+Quantity: 1
+Item:  Highlighter
+
+Input String: (The following will be turned in to your I. period doss)
+Comment: The following will be turned in to your I period doss
+
+Input String: 2 Containers disinfectant wipes
+Quantity: 2
+Item:  Containers disinfectant wipes
+
+Input String: 2 Hoses Kleenexes
+Quantity: 2
+Item:  Hoses Kleenexes
+
+Input String: Language Arts Class
+Item: Language Arts Class
+
+Input String: 1 1 inch 3-ring binder
+Quantity: 1
+Item:  1 inch 3ring binder
+
+Input String: 1 5-Tab dividers
+Quantity: 1
+Item:  5Tab dividers
+
+Input String: 1 Packages of notebook paper
+Quantity: 1
+Item:  Packages of notebook paper
+
+Input String: 1 Composition notebook
+Quantity: 1
+Item:  Composition notebook
+
+Input String: Math Class
+Item: Math Class
+
+Input String: 1 Package of 2 Expo markers
+Quantity: 1
+Item:  Package of 2 Expo markers
+
+Input String: 1 l inch 3-ring binder
+Quantity: 1
+Item:  l inch 3ring binder
+
+Input String: 1 Package notebook paper
+Quantity: 1
+Item:  Package notebook paper
+
+Input String: 1 Pocket folder with 3 holes punched
+Quantity: 1
+Item:  Pocket folder with 3 holes punched
+
+Input String: 1 5-Tab dividers
+Quantity: 1
+Item:  5Tab dividers
+
+Input String: Science Class
+Item: Science Class
+
+Input String: 2, Composition books
+Quantity: 2
+Item:  Composition books
+
+Input String: Set of index cards
+Comment: Set of index cards
+
+Input String: 1  Hand held pencil sharpener
+Quantity: 1
+Item:   Hand held pencil sharpener
+
+Input String: Social Studies Class
+Item: Social Studies Class
+
+Input String: 1 1 inch 3-ring binder
+Quantity: 1
+Item:  1 inch 3ring binder
+
+Input String: 1 5-Tab dividers
+Quantity: 1
+Item:  5Tab dividers
+
+Input String: 2 Packages of notebook paper
+Quantity: 2
+Item:  Packages of notebook paper
+
+Input String: Art Class
+Item: Art Class
+
+Input String: 1 Bottles of white glue
+Quantity: 1
+Item:  Bottles of white glue
+
+Input String: 1 Box of markers
+Quantity: 1
+Item:  Box of markers
+
+Input String: 1 Package of pencils (mechanical or 02 yellow pencils are fine)
+Quantity: 1
+Item:  Package of pencils mechanical or 02 yellow pencils are fine
+
+Input String: 2 Large erasers (white or pink)
+Quantity: 2
+Item:  Large erasers white or pink
+
+Input String: 1 Package of colored pencils
+Quantity: 1
+Item:  Package of colored pencils
+
+Input String: 1 Fine Hp Sharpie
+Quantity: 1
+Item:  Fine Hp Sharpie
+
+Input String: 1 Ultra - fine tip Sharpie
+Quantity: 1
+Item:  Ultra  fine tip Sharpie
+
+Input String: 1 Paint shirt
+Quantity: 1
+Item:  Paint shirt
+
+Input String: P.E. Class
+Item: PE Class
+
+Input String: t Pair of clean tennis shoes
+Comment: t Pair of clean tennis shoes
+
+Input String: 1 Pair of white socks
+Quantity: 1
+Item:  Pair of white socks
+
+Input String: 1 Pair of shorts (school appropriate length)
+Quantity: 1
+Item:  Pair of shorts school appropriate length
+
+Input String: 1 T-shirt (school appropriate-length and message)
+Quantity: 1
+Item:  Tshirt school appropriatelength and message
+
+Input String: Deodorant
+Item: Deodorant
+

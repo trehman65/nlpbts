@@ -1,0 +1,54 @@
+Input String: Teachers advise parents not to buy a calculator with more functions than
+Comment: Teachers advise parents not to buy a calculator with more functions than
+
+Input String: your students will use. Also check with the teacher to determine their
+Comment: your students will use Also check with the teacher to determine their
+
+Input String: policy on mobile phones that have calculators, and determine whether your
+Comment: policy on mobile phones that have calculators and determine whether your
+
+Input String: child will use It responsibly.
+Comment: child will use It responsibly
+
+Input String: Protractor (Some middle school students will need one, sometimes as early
+Comment: Protractor Some middle school students will need one sometimes as early
+
+Input String: as In sixth grade.)
+Comment: as In sixth grade
+
+Input String: Craft materials
+Item: Craft materials
+
+Input String: Drawing paper
+Comment: Drawing paper
+
+Input String: Construction paper
+Item: Construction paper
+
+Input String: Glue sticks
+Item: Glue sticks
+
+Input String: Four-ounce bottle of white glue
+Comment: Fourounce bottle of white glue
+
+Input String: Scotch tape
+Item: Scotch tape
+
+Input String: Stapler
+Item: Stapler
+
+Input String: Scissors
+Item: Scissors
+
+Input String: Watercolor paints
+Item: Watercolor paints
+
+Input String: Water-based markers
+Item: Waterbased markers
+
+Input String: Home computer supplies
+Item: Home computer supplies
+
+Input String: Printer paper
+Item: Printer paper
+

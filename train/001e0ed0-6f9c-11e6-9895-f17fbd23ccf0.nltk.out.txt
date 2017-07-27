@@ -1,0 +1,35 @@
+Input String: moo Virgin ? 12:26 PM  ,q, 98%M.
+Quantity: 98M
+Item: moo Virgin  1226 PM  q 
+
+Input String: cval leycsd.org
+Item: cval leycsdorg
+
+Input String: - folders
+Item: folders
+
+Input String: highlighters
+Item: highlighters
+
+Input String: calculator (optional)
+Item: calculator optional
+
+Input String: Earth Science
+Subject: Earth Science
+
+Input String: 2" three-ring binder
+Quantity: 2
+Item:  threering binder
+
+Input String: loose leaf paper
+Item: loose leaf paper
+
+Input String: folder
+Item: folder
+
+Input String: pencils
+Item: pencils
+
+Input String: Chemistry
+Subject: Chemistry
+

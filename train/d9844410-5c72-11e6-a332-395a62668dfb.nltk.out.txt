@@ -1,0 +1,95 @@
+Input String: ?0000 Verizon 12:44 AM 1 0 67% I? I.
+Quantity: 0000
+Item:  Verizon 1244 AM 1 0 67 I I
+
+Input String: wa I m a rt I i ve b e tte r. ca
+Comment: wa I m a rt I i ve b e tte r ca
+
+Input String: ^ Laminated rote with important
+Comment: Laminated rote with important
+
+Input String: 1 of 1 p6"e "umbers '4 home address
+Quantity: 1
+Item:  of 1 p6e umbers 4 home address
+
+Input String: Jumbo Z Senior Grades
+Item: Jumbo Z Senior Grades
+
+Input String: ^ Backpack
+Item: Backpack
+
+Input String: ^ Sharpened pencil
+Comment: Sharpened pencil
+
+Input String: ^ Eraser
+Item: Eraser
+
+Input String: ^ Ruler
+Item: Ruler
+
+Input String: ^ Pens in blue/black and red ink
+Comment: Pens in blueblack and red ink
+
+Input String: ^ ?igkligkters
+Item: igkligkters
+
+Input String: ^ Calculator
+Item: Calculator
+
+Input String: ^ Protractor
+Item: Protractor
+
+Input String: ^ Small pair of scissors
+Comment: Small pair of scissors
+
+Input String: ^ Glue stick
+Item: Glue stick
+
+Input String: ^ Pencil case
+Item: Pencil case
+
+Input String: ^ Planner or agenda
+Item: Planner or agenda
+
+Input String: ^ Water bottle
+Item: Water bottle
+
+Input String: ^ Lunch box/bag
+Item: Lunch boxbag
+
+Input String: ^ Extra socks
+Item: Extra socks
+
+Input String: ^ Small tube of hand sanitizes
+Comment: Small tube of hand sanitizes
+
+Input String: ^ Binders and notebooks
+Item: Binders and notebooks
+
+Input String: ^ solder to bring kome forms/homework
+Comment: solder to bring kome formshomework
+
+Input String: ^ Pocket-sized Prenck dictionary
+Comment: Pocketsized Prenck dictionary
+
+Input String: ^ Gym clothes
+Item: Gym clothes
+
+Input String: ^ kenning shoes
+Item: kenning shoes
+
+Input String: ^ Ligktweigkt windbreaker wfk hood
+Comment: Ligktweigkt windbreaker wfk hood
+
+Input String: ^ Umbrella
+Item: Umbrella
+
+Input String: ^ Small package of tissues
+Comment: Small package of tissues
+
+Input String: Other
+Subject: Other
+
+Input String: ^ rt : rp,. .
+Item: rt  rp
+
