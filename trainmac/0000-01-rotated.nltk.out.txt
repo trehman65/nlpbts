@@ -1,0 +1,106 @@
+Input String: Please save this list to check the contents of your kit or
+Not a Product: Please save this list to check the contents of your kit or
+
+Input String: Por favor, mantenga esta lista para verificar el contenido de su caja despu
+Not a Product: Por favor, mantenga esta lista para verificar el contenido de su caja despu
+
+Input String: Grade: 5th Grade
+Item: Grade: 5th Grade
+
+Input String: Total Kit Price: $51.00    Type: ALL
+Not a Product: Total Kit Price: $51.00    Type: ALL
+
+Input String: Kit Includes Product Description
+Not a Product: Kit Includes Product Description
+
+Input String: 1    Pk   Filler Paper, Wide Rule, 10.5" x 8", 120/Pk
+Quantity: 1
+Item: Pk   Filler Paper Wide Rule 105 x 8 120Pk
+
+Input String: 3    Ea   Stick On Notes, 3" x 3", Yellow,100 Sht/Pd
+Quantity: 3
+Item: Ea   Stick On Notes 3 x 3 Yellow100 ShtPd
+
+Input String: 1    Pk   Construction Paper, 9" x 12", 50/Pk, Asst.
+Quantity: 1
+Item: Pk   Construction Paper 9 x 12 50Pk Asst
+
+Input String: 1     Dz   Pencils, #2, Ticonderoga, Unsharpened, Dz.
+Quantity: 1
+Item: Dz   Pencils 2 Ticonderoga Unsharpened Dz
+
+Input String: 7     Ea   Composition Book, Marble Cover, WR, 100 Sheets, Black
+Quantity: 7
+Item: Ea   Composition Book Marble Cover WR 100 Sheets Black
+
+Input String: 3     Ea   Pen, Ballpoint, Round Stic, Medium Point, Blue
+Quantity: 3
+Item: Ea   Pen Ballpoint Round Stic Medium Point Blue
+
+Input String: 3    Ea    Pen, Ballpoint, Round Stic, Medium Point, Black
+Quantity: 3
+Item: Ea    Pen Ballpoint Round Stic Medium Point Black
+
+Input String: 3    Ea    Pen, Ballpoint, Round Stic, Medium Point, Red
+Quantity: 3
+Item: Ea    Pen Ballpoint Round Stic Medium Point Red
+
+Input String: 1    Ea    Pencil Box, Plastic, 8.25" x 5.25" x 2", Asst.
+Quantity: 1
+Item: Ea    Pencil Box Plastic 825 x 525 x 2 Asst
+
+Input String: 3    Ea    Highlighter, Chisel Tip, Yellow, w/Pkt Clip
+Quantity: 3
+Item: Ea    Highlighter Chisel Tip Yellow wPkt Clip
+
+Input String: 1    Pr   Scissors, 'For Kids', 5", Pointed Tip, Latex Free, Asst.
+Quantity: 1
+Item: Pr   Scissors For Kids 5 Pointed Tip Latex Free Asst
+
+Input String: 2    Ea   Glue Stick, Washable, Purple, Dries Clear, .77 oz.
+Quantity: 2
+Item: Ea   Glue Stick Washable Purple Dries Clear 77 oz
+
+Input String: 2     Bx   Facial Tissue, 'Scotties', Hypo-Allergenic, 200 Ct.
+Quantity: 2
+Item: Bx   Facial Tissue Scotties HypoAllergenic 200 Ct
+
+Input String: 2     Pk   Folders, 2 Pocket, 6Pk, Be/Rd/Gn/Yw/Pu/Blk
+Quantity: 2
+Item: Pk   Folders 2 Pocket 6Pk BeRdGnYwPuBlk
+
+Input String: 2     RI   Paper Towels, Roll, 2 Ply, 85 Sheets
+Quantity: 2
+Item: RI   Paper Towels Roll 2 Ply 85 Sheets
+
+Input String: 3     Ea   Binder, 3 Ring, Economy, 2", Asst.
+Quantity: 3
+Item: Ea   Binder 3 Ring Economy 2 Asst
+
+Input String: 1     St   Pencils, Colored, 7", Sharpened, 8/Set
+Quantity: 1
+Item: St   Pencils Colored 7 Sharpened 8Set
+
+Input String: 1     Bx   Crayons, Tuck Box, 8/Box
+Quantity: 1
+Item: Bx   Crayons Tuck Box 8Box
+
+Input String: 1     Ea   "Money From Home" Envelopes & Student ID Labels
+Quantity: 1
+Item: Ea   Money From Home Envelopes  Student ID Labels
+
+Input String: 123 ''
+Not a Product: 123
+
+Input String: Important Parent Notes:
+Item: Important Parent Notes
+
+Input String: Notes importantes Para Padres
+Not a Product: Notes importantes Para Padres
+
+Input String: To order online: Go to www.shopttkits.com and enter account # 1
+Not a Product: To order online: Go to www.shopttkits.com and enter account # 1
+
+Input String: tax added at checkout. Any questions please email Jennifer at jer
+Not a Product: tax added at checkout. Any questions please email Jennifer at jer
+
