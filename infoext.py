@@ -77,6 +77,7 @@ def evaluateString(inputString, dictSubjects):
 def process(inputString):
 
     wordlabel=[]
+    comment=""
 
     line = inputString
 
@@ -91,6 +92,12 @@ def process(inputString):
 
     input = line
     wordlabel.append(["Input String", orgline])
+
+    comment = line.split("(")[-1].split(")")[0]
+
+    if comment != line:
+        line=line.replace(comment,"")
+        line = line.strip(string.punctuation)
 
     if (countVerbs(line) >= 2):
 
@@ -113,6 +120,9 @@ def process(inputString):
 
         else:
             wordlabel.append([evaluateString(line.strip(), dictSubjects), line])
+
+        if(comment!=line):
+            wordlabel.append(["Comment", comment])
 
     return wordlabel
 
@@ -147,8 +157,8 @@ for filename in file.readlines():
     for line in file.readlines():
 
         if len(line) > 3:
-            if line.find("        "):
-                parts= line.split("        ")
+            if line.find("     "):
+                parts= line.split("     ")
                 for part in parts:
                     if len(part)>1:
                         print process(part.strip())
