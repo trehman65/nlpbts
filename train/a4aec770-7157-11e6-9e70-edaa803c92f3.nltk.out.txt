@@ -1,5 +1,5 @@
 Input String: Verizon 5:52 PM L @ 1 55% I1
-Item: Verizon 552 PM L  1 55 I1
+None: Verizon 5:52 PM L @ 1 55% I1
 
 Input String: Notes
 Item: Notes
@@ -9,11 +9,11 @@ Item: school supplies list
 
 Input String: 9 1 Subject Notebooks
 Quantity: 9
-Item:  1 Subject Notebooks
+Item: 1 Subject Notebooks
 
 Input String: 5 Plastic Folders
 Quantity: 5
-Item:  Plastic Folders
+Item: Plastic Folders
 
 Input String: Looseleaf paper
 Item: Looseleaf paper
@@ -29,7 +29,7 @@ Item: Index cards
 
 Input String: 4 packs of 5 tab dividers
 Quantity: 4
-Item:  packs of 5 tab dividers
+Item: packs of 5 tab dividers
 
 Input String: Mechanical pencils
 Item: Mechanical pencils
@@ -41,11 +41,11 @@ Input String: Black pens
 Item: Black pens
 
 Input String: Colored pens
-Comment: Colored pens
+Not a Product: Colored pens
 
 Input String: File folder
 Item: File folder
 
 Input String: Colored pencils
-Comment: Colored pencils
+Not a Product: Colored pencils
 

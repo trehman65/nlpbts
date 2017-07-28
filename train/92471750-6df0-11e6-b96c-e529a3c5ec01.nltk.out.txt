@@ -1,62 +1,62 @@
 Input String: iPod ? 8:05 AM M.*
-None: iPod  805 AM M
+None: iPod ? 8:05 AM M
 
 Input String: LOUDONVILLE ELEMENTARY SCHOOL
 Item: LOUDONVILLE ELEMENTARY SCHOOL
 
 Input String: LOUDONVILLE, NEW YORK
-Item: LOUDONVILLE NEW YORK
+Item: LOUDONVILLE, NEW YORK
 
 Input String: Fifth Grade Supply List 2016 -2017
 Quantity: 2017
-Item: Fifth Grade Supply List 2016 
+Item: Fifth Grade Supply List 2016
 
 Input String: Classroom supply Items available from School Taal Box kerns,
-Comment: Classroom supply Items available from School Taal Box kerns
+Not a Product: Classroom supply Items available from School Taal Box kerns
 
 Input String: Crayons 2,1 ct
-Item: Crayons 21 ct
+Item: Crayons 2,1 ct
 
 Input String: Box of ailed no. pencils 1.1
 Quantity: 11
-Item: Box of ailed no pencils 
+Item: Box of ailed no pencils
 
 Input String: Marble composition books, wide rule
-Item: Marble composition books wide rule
+Item: Marble composition books, wide rule
 
 Input String: colored
-Comment: colored
+Not a Product: colored
 
 Input String: Prude accordion pocket folder, with at leut six pockets, lencr size
-Comment: Prude accordion pocket folder with at leut six pockets lencr size
+Not a Product: Prude accordion pocket folder, with at leut six pockets, lencr size
 
 Input String: Erasable pens Blue or Blach
-Comment: Erasable pens Blue or Blach
+Not a Product: Erasable pens Blue or Blach
 
 Input String: Green ballpoint
 Item: Green ballpoint
 
 Input String: Pack or,,color Apo, Dry Erase Markers?low odor
-Item: Pack orcolor Apo Dry Erase Markerslow odor
+Item: Pack or,,color Apo, Dry Erase Markers?low odor
 
 Input String: Box of Tissues
-Comment: Box of Tissues
+Not a Product: Box of Tissues
 
 Input String: Zipper Pencil Pouch
 Item: Zipper Pencil Pouch
 
 Input String: Classroom supply items 11,1 available from School Tool Bar
-Comment: Classroom supply items 111 available from School Tool Bar
+Not a Product: Classroom supply items 11,1 available from School Tool Bar
 
 Input String: I Smock for Art Class
-Comment: I Smock for Art Class
+Not a Product: I Smock for Art Class
 
 Input String: I Pair of headphones with your child's name, Headphones are
-Comment: I Pair of headphones with your childs name Headphones are
+Not a Product: I Pair of headphones with your child's name, Headphones are
 
 Input String: available al local revelers for less than 3,00.
 Quantity: 300
-Item: available al local revelers for less than 
+Item: available al local revelers for less than
 
 Input String: 7/11.16
 Quantity: 71116

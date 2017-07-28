@@ -1,9 +1,9 @@
 Input String: moo Virgin ? 12:25 PM @ 98%?.
 Quantity: 98
-Item: moo Virgin  1225 PM  
+Item: moo Virgin  1225 PM
 
 Input String: cvalleycsd.org
-Item: cvalleycsdorg
+Item: cvalleycsd.org
 
 Input String: Performance 1 neatre ana h
 Item: Performance 1 neatre ana h
@@ -19,11 +19,11 @@ Item: English Language Arts
 
 Input String: English 9
 Quantity: 9
-Item: English 
+Item: English
 
 Input String: - 3" three-ring binder
 Quantity: 3
-Item:  threering binder
+Item: threering binder
 
 Input String: - loose leaf paper
 Item: loose leaf paper
@@ -32,18 +32,19 @@ Input String: - Notebook
 Item: Notebook
 
 Input String: - pens (blue/black)
-Item: pens blueblack
+Item: pens 
+Comment: blue/black
 
 Input String: pencils
 Item: pencils
 
 Input String: English 10
 Quantity: 10
-Item: English 
+Item: English
 
 Input String: - 2" three-ring binder
 Quantity: 2
-Item:  threering binder
+Item: threering binder
 
 Input String: - divider pages
 Item: divider pages

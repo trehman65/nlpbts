@@ -1,94 +1,103 @@
-Input String: ???oo Verizon 9:05 AM               92% M.
-None: oo Verizon 905 AM               92 M
+Input String: ???oo Verizon 9:05 AM
+None: oo Verizon 9:05 AM
+
+Input String: 92% M.
+Quantity: 92
+Item: M
 
 Input String: static.secure.website
-Item: staticsecurewebsite
+Item: static.secure.website
 
 Input String: THIRD GRADE SUPPLY LIST
-Comment: THIRD GRADE SUPPLY LIST
+Not a Product: THIRD GRADE SUPPLY LIST
 
 Input String: At the.tl of the school year individual teachers may request a few additional,
-Comment: At thetl of the school year individual teachers may request a few additional
+Not a Product: At the.tl of the school year individual teachers may request a few additional
 
 Input String: class specific supplies.
 Item: class specific supplies
 
 Input String: 3 packages (packages of 4) Post-it notes (1- Judaic) (2 - General)
 Quantity: 3
-Item:  packages packages of 4 Postit notes 1 Judaic 2  General
+Item: packages packages of 4 Postit notes 1 Judaic
+Comment: 2 - General
 
 Input String: 2 box of gallon size Ziploc bags
 Quantity: 2
-Item:  box of gallon size Ziploc bags
+Item: box of gallon size Ziploc bags
 
 Input String: 6 highlighters (General - 2 Yellow) (Judaic- 4 Assorted colors)
 Quantity: 6
-Item:  highlighters General  2 Yellow Judaic 4 Assorted colors
+Item: highlighters General  2 Yellow
+Comment: Judaic- 4 Assorted colors
 
 Input String: 1 547 pack index cards (Judaic).-
 Quantity: 1
-Item:  547 pack index cards Judaic
+Item: 547 pack index cards
+Comment: Judaic
 
 Input String: 1 345 pack index cards (Judaic)
 Quantity: 1
-Item:  345 pack index cards Judaic
+Item: 345 pack index cards
+Comment: Judaic
 
 Input String: 5 composition notebooks wide ruled
 Quantity: 5
-Item:  composition notebooks wide ruled
+Item: composition notebooks wide ruled
 
 Input String: 5 (3 pranged folders) - red, green, yellow, purple, black
 Quantity: 5
-Item:  3 pranged folders  red green yellow purple black
+Item: red green yellow purple black
+Comment: 3 pranged folders
 
 Input String: 1-8 pack Crayola Markers
 Quantity: 18
-Item:  pack Crayola Markers
+Item: pack Crayola Markers
 
 Input String: 1- 24 pack Crayola Crayons
 Quantity: 1
-Item:  24 pack Crayola Crayons
+Item: 24 pack Crayola Crayons
 
 Input String: 48 sharpened pencils
 Quantity: 48
-Item:  sharpened pencils
+Item: sharpened pencils
 
 Input String: 5 glue sticks
 Quantity: 5
-Item:  glue sticks
+Item: glue sticks
 
 Input String: 1 pair of scissors
 Quantity: 1
-Item:  pair of scissors
+Item: pair of scissors
 
 Input String: 2 wide ruled packs of loose leaf paper
 Quantity: 2
-Item:  wide ruled packs of loose leaf paper
+Item: wide ruled packs of loose leaf paper
 
 Input String: 1 ruler cm and inches
 Quantity: 1
-Item:  ruler cm and inches
+Item: ruler cm and inches
 
 Input String: 2 erasers
 Quantity: 2
-Item:  erasers
+Item: erasers
 
 Input String: 1 pencil sharpener
 Quantity: 1
-Item:  pencil sharpener
+Item: pencil sharpener
 
 Input String: 2 rolls of scotch tape
 Quantity: 2
-Item:  rolls of scotch tape
+Item: rolls of scotch tape
 
 Input String: 1 double sided tape
 Quantity: 1
-Item:  double sided tape
+Item: double sided tape
 
 Input String: 2 Expo markers
 Quantity: 2
-Item:  Expo markers
+Item: Expo markers
 
 Input String: ENJOY THE SUMMER!!
-Comment: ENJOY THE SUMMER
+Not a Product: ENJOY THE SUMMER
 

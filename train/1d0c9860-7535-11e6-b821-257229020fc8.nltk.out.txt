@@ -1,95 +1,98 @@
-Input String: Verizon      3:35 PM @ 0 30%1
-Quantity: 301
-Item: Verizon      335 PM  0 
+Input String: Verizon
+Item: Verizon
+
+Input String: 3:35 PM @ 0 30%1
+Quantity: 335
+Item: PM  0 301
 
 Input String: GI schooltoolbox.com
-Item: GI schooltoolboxcom
+Item: GI schooltoolbox.com
 
 Input String: 4 Pencil #2 Yellow Woodcase Sharpened 12ct
 Quantity: 4
-Item:  Pencil 2 Yellow Woodcase Sharpened 12ct
+Item: Pencil 2 Yellow Woodcase Sharpened 12ct
 
 Input String: 1 Crayola Full-Length Colored Pencils Pre-
 Quantity: 1
-Item:  Crayola FullLength Colored Pencils Pre
+Item: Crayola FullLength Colored Pencils Pre
 
 Input String: sharpened 12ct
 Quantity: 12ct
-Item: sharpened 
+Item: sharpened
 
 Input String: ir    1 Pencil Pouch - Zippered Heavy Canvas
-None: ir    1 Pencil Pouch  Zippered Heavy Canvas
+None: ir    1 Pencil Pouch - Zippered Heavy Canvas
 
 Input String: w/Grommets, See-Through Front, Exterior Mesh Pocket
-Item: wGrommets SeeThrough Front Exterior Mesh Pocket
+Item: w/Grommets, See-Through Front, Exterior Mesh Pocket
 
 Input String: w/Zipper Assorted 8.5x9.75
 Quantity: 85x975
-Item: wZipper Assorted 
+Item: wZipper Assorted
 
 Input String: 0  2 Magic Rub Eraser Non-Glossing White Vinyl
 Quantity: 0
-Item:   2 Magic Rub Eraser NonGlossing White Vinyl
+Item: 2 Magic Rub Eraser NonGlossing White Vinyl
 
 Input String: 1 5-Pack 2-Pocket Folder Poly w/out Clasp
 Quantity: 1
-Item:  5Pack 2Pocket Folder Poly wout Clasp
+Item: 5Pack 2Pocket Folder Poly wout Clasp
 
 Input String: (RD,BL,YL,GN,PU)
-Item: RDBLYLGNPU
+Item: RD,BL,YL,GN,PU
 
 Input String: 0 1 5-Pack 2-Pocket Folder Paper w/out Clasp
 Quantity: 0
-Item:  1 5Pack 2Pocket Folder Paper wout Clasp
+Item: 1 5Pack 2Pocket Folder Paper wout Clasp
 
 Input String: (RD,BL,YL,GN,PU)
-Item: RDBLYLGNPU
+Item: RD,BL,YL,GN,PU
 
 Input String: 1 Copy Paper White Ream/500ct Letter/8.5x11
 Quantity: 1
-Item:  Copy Paper White Ream500ct Letter85x11
+Item: Copy Paper White Ream500ct Letter85x11
 
 Input String: 1 Index Cards Ruled Wirebound White 50ct 4x6
 Quantity: 1
-Item:  Index Cards Ruled Wirebound White 50ct 4x6
+Item: Index Cards Ruled Wirebound White 50ct 4x6
 
 Input String: 1 Scissors Stainless Steel 7"
 Quantity: 1
-Item:  Scissors Stainless Steel 7
+Item: Scissors Stainless Steel 7
 
 Input String: pig
 Item: pig
 
 Input String: 1 Composition Book Wide Ruled Red Marble
 Quantity: 1
-Item:  Composition Book Wide Ruled Red Marble
+Item: Composition Book Wide Ruled Red Marble
 
 Input String: hitt
 Item: hitt
 
 Input String: 100ct 9.75x7.5
 Quantity: 100ct
-Item:  975x75
+Item: 975x75
 
 Input String: 1 Composition Book Wide Ruled Blue Marble
 Quantity: 1
-Item:  Composition Book Wide Ruled Blue Marble
+Item: Composition Book Wide Ruled Blue Marble
 
 Input String: 1:11 5
 Quantity: 111
-Item:  5
+Item: 5
 
 Input String: 100ct 9.75x7.5
 Quantity: 100ct
-Item:  975x75
+Item: 975x75
 
 Input String: 1 Composition Book Wide Ruled Green Marble
 Quantity: 1
-Item:  Composition Book Wide Ruled Green Marble
+Item: Composition Book Wide Ruled Green Marble
 
 Input String: 100ct 9.75x7.5
 Quantity: 100ct
-Item:  975x75
+Item: 975x75
 
 Input String: ri 0  1 Composition Book Wide Ruled Purple Marble
 None: ri 0  1 Composition Book Wide Ruled Purple Marble

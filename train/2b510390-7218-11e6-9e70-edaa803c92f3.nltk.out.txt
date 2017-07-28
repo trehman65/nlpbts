@@ -1,6 +1,14 @@
-Input String: ??000 Sprint LTE             4:51 PM               10 82%W.
+Input String: ??000 Sprint LTE
 Quantity: 000
-Item:  Sprint LTE             451 PM               10 82W
+Item: Sprint LTE
+
+Input String: 4:51 PM
+Quantity: 451
+Item: PM
+
+Input String: 10 82%W.
+Quantity: 10
+Item: 82W
 
 Input String: 282parkslope.com
 Quantity: 282parkslopecom
@@ -8,7 +16,7 @@ Item:
 
 Input String: PARK SLOPE SCHOOL 282
 Quantity: 282
-Item: PARK SLOPE SCHOOL 
+Item: PARK SLOPE SCHOOL
 
 Input String: KINDERGARTEN SCHOOL SUPPLY LIST
 Item: KINDERGARTEN SCHOOL SUPPLY LIST
@@ -18,86 +26,91 @@ Item: STUDENT PERSONAL USE
 
 Input String: ? 3 black and white composition notebooks
 Quantity: 3
-Item:  black and white composition notebooks
+Item: black and white composition notebooks
 
 Input String: ? 5 folders with pockets (different colors)
 Quantity: 5
-Item:  folders with pockets different colors
+Item: folders with pockets
+Comment: different colors
 
 Input String: ? 1 book bag (back pack)
 Quantity: 1
-Item:  book bag back pack
+Item: book bag
+Comment: back pack
 
 Input String: ? Trip T-shirt ($8.00) cash only
-Comment: Trip Tshirt 800 cash only
+Not a Product: Trip T-shirt () cash only
+Comment: $8.00
 
 Input String: ? Change of clothing
-Comment: Change of clothing
+Not a Product: Change of clothing
 
 Input String: CLASS CONSUMPTION (DONATION)
-Item: CLASS CONSUMPTION DONATION
+Item: CLASS CONSUMPTION 
+Comment: DONATION
 
 Input String: ? 2 packs copy paper,
 Quantity: 2
-Item:  packs copy paper
+Item: packs copy paper
 
 Input String: ? 41arge glue sticks
 Quantity: 41arge
-Item:  glue sticks
+Item: glue sticks
 
 Input String: ? 2 Elmers liquid glue
 Quantity: 2
-Item:  Elmers liquid glue
+Item: Elmers liquid glue
 
 Input String: ? 3 boxes washable Crayola markers (Crayola tends
 Quantity: 3
-Item:  boxes washable Crayola markers Crayola tends
+Item: boxes washable Crayola markers
+Comment: Crayola tends
 
 Input String: to last longer)
 Item: to last longer
 
 Input String: ? 1 box JUMBO Crayola crayons
 Quantity: 1
-Item:  box JUMBO Crayola crayons
+Item: box JUMBO Crayola crayons
 
 Input String: ? 1 box thin Crayola crayons
 Quantity: 1
-Item:  box thin Crayola crayons
+Item: box thin Crayola crayons
 
 Input String: ? 2 boxes of sharpened pencils
 Quantity: 2
-Item:  boxes of sharpened pencils
+Item: boxes of sharpened pencils
 
 Input String: ? I box of 12 colored pencils
-Comment: I box of 12 colored pencils
+Not a Product: I box of 12 colored pencils
 
 Input String: ? 1 box of dry erase markers with eraser
 Quantity: 1
-Item:  box of dry erase markers with eraser
+Item: box of dry erase markers with eraser
 
 Input String: ? 1 pair of scissors
 Quantity: 1
-Item:  pair of scissors
+Item: pair of scissors
 
 Input String: ? 3 boxes of facial tissue
 Quantity: 3
-Item:  boxes of facial tissue
+Item: boxes of facial tissue
 
 Input String: ? 1 roll paper towel
 Quantity: 1
-Item:  roll paper towel
+Item: roll paper towel
 
 Input String: ? 1 tub of Clorox disinfecting wipes
 Quantity: 1
-Item:  tub of Clorox disinfecting wipes
+Item: tub of Clorox disinfecting wipes
 
 Input String: ? 1 bottle of liquid soap
 Quantity: 1
-Item:  bottle of liquid soap
+Item: bottle of liquid soap
 
 Input String: ? Baby wipes
 Item: Baby wipes
 
 Input String: ? Zip lock bags ? both one and two gallon baggier
-Comment: Zip lock bags  both one and two gallon baggier
+Not a Product: Zip lock bags ? both one and two gallon baggier
 

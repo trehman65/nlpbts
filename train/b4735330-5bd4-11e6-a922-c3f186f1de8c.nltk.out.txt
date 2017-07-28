@@ -1,13 +1,19 @@
-Input String: ???oo Verizon LTE 8:38 AM      Ge 1 78%I 1
+Input String: ???oo Verizon LTE 8:38 AM
+None: oo Verizon LTE 8:38 AM
+
+Input String: Ge 1 78%I 1
 Quantity: 1
-Item: oo Verizon LTE 838 AM      Ge 1 78I 
+Item: Ge 1 78I
 
 Input String: bhg.polk-fl.net
-Item: bhgpolkflnet
+Item: bhg.polk-fl.net
 
-Input String: 1 of 1          Joy Scott, Assistant Principal
+Input String: 1 of 1
 Quantity: 1
-Item:  of 1          Joy Scott Assistant Principal
+Item: of 1
+
+Input String: Joy Scott, Assistant Principal
+Item: Joy Scott, Assistant Principal
 
 Input String: 6-2017
 Quantity: 62017
@@ -17,61 +23,60 @@ Input String: supply List
 Item: supply List
 
 Input String: Fifth Grade
-Comment: Fifth Grade
+Not a Product: Fifth Grade
 
 Input String: #2 pencils (48 pack) replace when needed
-Quantity: 2
-Item:  pencils 48 pack replace when needed
+Not a Product: 2 pencils () replace when needed
 
 Input String: 2 packages wide-ruled notebook paper
 Quantity: 2
-Item:  packages wideruled notebook paper
+Item: packages wideruled notebook paper
 
 Input String: 4 folders with prongs and pockets
 Quantity: 4
-Item:  folders with prongs and pockets
+Item: folders with prongs and pockets
 
 Input String: 2-70 count spirals
 Quantity: 270
-Item:  count spirals
+Item: count spirals
 
 Input String: 1 package cap erasers
 Quantity: 1
-Item:  package cap erasers
+Item: package cap erasers
 
 Input String: 1 pack glue sticks
 Quantity: 1
-Item:  pack glue sticks
+Item: pack glue sticks
 
 Input String: 1 pair safety scissors
 Quantity: 1
-Item:  pair safety scissors
+Item: pair safety scissors
 
 Input String: 1 package yellow highlighters
 Quantity: 1
-Item:  package yellow highlighters
+Item: package yellow highlighters
 
 Input String: 1 % inch heavy duty binder (may need to be replac
 Quantity: 1
-Item:   inch heavy duty binder may need to be replac
+Item: inch heavy duty binder
+Comment: may need to be replac
 
 Input String: after Christmas)
-Comment: after Christmas
+Not a Product: after Christmas
 
 Input String: 5 pack of notebook dividers
 Quantity: 5
-Item:  pack of notebook dividers
+Item: pack of notebook dividers
 
 Input String: 1 soft pencil bag that can fit in binder
-Quantity: 1
-Item:  soft pencil bag that can fit in binder
+Not a Product: 1 soft pencil bag that can fit in binder
 
 Input String: No mechanical pencils
-Comment: No mechanical pencils
+Not a Product: No mechanical pencils
 
 Input String: 5`h Grade Wish List:
 Quantity: 5h
-Item:  Grade Wish List
+Item: Grade Wish List
 
 Input String: Kleenex
 Item: Kleenex
@@ -80,7 +85,8 @@ Input String: Lysol wipes
 Item: Lysol wipes
 
 Input String: Ziploc bags (gallon size)
-Item: Ziploc bags gallon size
+Item: Ziploc bags 
+Comment: gallon size
 
 Input String: IMPORTANT DATES
 Item: IMPORTANT DATES
@@ -90,7 +96,7 @@ Item: STUDENT ORIENTATION
 
 Input String: THURSDAY, AUGUST 11TH, 2016
 Quantity: 2016
-Item: THURSDAY AUGUST 11TH 
+Item: THURSDAY AUGUST 11TH
 
 Input String: 2:00-4:00pm
 Quantity: 200400pm

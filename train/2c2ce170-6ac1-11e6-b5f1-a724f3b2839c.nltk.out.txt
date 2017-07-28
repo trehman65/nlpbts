@@ -1,9 +1,12 @@
-Input String: ???oo AT&T LTE          8:51 AM @ 9 85%
-Quantity: 85
-Item: oo ATT LTE          851 AM  9 
+Input String: ???oo AT&T LTE
+Not a Product: oo AT&T LTE
+
+Input String: 8:51 AM @ 9 85%
+Quantity: 851
+Item: AM  9 85
 
 Input String: docs.google.com
-Item: docsgooglecom
+Item: docs.google.com
 
 Input String: UNQUASCHOOL
 Item: UNQUASCHOOL
@@ -13,149 +16,159 @@ Item: UNQUARono
 
 Input String: MASSAPEQUA, NEW YORK 11758
 Quantity: 11758
-Item: MASSAPEQUA NEW YORK 
+Item: MASSAPEQUA NEW YORK
 
 Input String: 516-308-5601 FAX: 516-308-5609
 Quantity: 5163085601
-Item:  FAX 5163085609
+Item: FAX 5163085609
 
 Input String: Unqua Supper List for Sixth Grade 2016
 Quantity: 2016
-Item: Unqua Supper List for Sixth Grade 
+Item: Unqua Supper List for Sixth Grade
 
 Input String: Below is a list of supplies for students entering sixth grade for the 2016-2017 school year.
-Comment: Below is a list of supplies for students entering sixth grade for the 20162017 school year
+Not a Product: Below is a list of supplies for students entering sixth grade for the 2016-2017 school year
 
 Input String: These are the items that were included in the PTA School Kit sale. If you did not
-Comment: These are the items that were included in the PTA School Kit sale If you did not
+Not a Product: These are the items that were included in the PTA School Kit sale. If you did not
 
 Input String: purchase the PTA School Kit, you will need to purchase the items from list.
-Comment: purchase the PTA School Kit you will need to purchase the items from list
+Not a Product: purchase the PTA School Kit, you will need to purchase the items from list
 
-Input String: Quantity                   Description
-Item: Quantity                   Description
+Input String: Quantity
+Item: Quantity
+
+Input String: Description
+Item: Description
 
 Input String: 1       File, expanding, poly, letter size, 13 pocket, reinforced
-Quantity: 1
-Item:        File expanding poly letter size 13 pocket reinforced
+Not a Product: 1       File, expanding, poly, letter size, 13 pocket, reinforced
 
 Input String: 1       Binder, 3 ring, 1", red
 Quantity: 1
-Item:        Binder 3 ring 1 red
+Item: Binder 3 ring 1 red
 
 Input String: 1       Binder, 3 ring, 1", black
 Quantity: 1
-Item:        Binder 3 ring 1 black
+Item: Binder 3 ring 1 black
 
 Input String: 1       Binder, 3 ring, 1", blue
 Quantity: 1
-Item:        Binder 3 ring 1 blue
+Item: Binder 3 ring 1 blue
 
 Input String: 1       Folder, 2 pocket, 14 pt., 3-hole, red
 Quantity: 1
-Item:        Folder 2 pocket 14 pt 3hole red
+Item: Folder 2 pocket 14 pt 3hole red
 
 Input String: 1       Folder, 2 pocket, 14 pt., 3-hole black
 Quantity: 1
-Item:        Folder 2 pocket 14 pt 3hole black
+Item: Folder 2 pocket 14 pt 3hole black
 
 Input String: 1       Folder, 2 pocket, 4 pt., 3-hole green
 Quantity: 1
-Item:        Folder 2 pocket 4 pt 3hole green
+Item: Folder 2 pocket 4 pt 3hole green
 
 Input String: 1       Folder, 2 pocket, 14 pt., 3-hole blue
 Quantity: 1
-Item:        Folder 2 pocket 14 pt 3hole blue
+Item: Folder 2 pocket 14 pt 3hole blue
 
 Input String: 4       Composition book, marble cover black, wide (100 count)
 Quantity: 4
-Item:        Composition book marble cover black wide 100 count
+Item: Composition book marble cover black wide
+Comment: 100 count
 
 Input String: 2       Divider, 3-ring, 5 tab, 11'x8.5"
 Quantity: 2
-Item:        Divider 3ring 5 tab 11x85
+Item: Divider 3ring 5 tab 11x85
 
 Input String: 1       Divider, 3-ring, 8-tab, 11'x8.5"
 Quantity: 1
-Item:        Divider 3ring 8tab 11x85
+Item: Divider 3ring 8tab 11x85
 
 Input String: 1       Notebook spiral, 5 subject, WR, Perforated (180 count)
 Quantity: 1
-Item:        Notebook spiral 5 subject WR Perforated 180 count
+Item: Notebook spiral 5 subject WR Perforated
+Comment: 180 count
 
 Input String: 2       Index cards, 5"x8", ruled, white (100 count)
 Quantity: 2
-Item:        Index cards 5x8 ruled white 100 count
+Item: Index cards 5x8 ruled white
+Comment: 100 count
 
 Input String: 1       Pencil case, fabric, 3-hole w/ grommets, 10"x6"
 Quantity: 1
-Item:        Pencil case fabric 3hole w grommets 10x6
+Item: Pencil case fabric 3hole w grommets 10x6
 
 Input String: 2       Packages of filler paper, wide, reinforced. 10.5"x8" (110 pack)
 Quantity: 2
-Item:        Packages of filler paper wide reinforced 105x8 110 pack
+Item: Packages of filler paper wide reinforced 105x8
+Comment: 110 pack
 
 Input String: 1       Box of crayons (24 count)
 Quantity: 1
-Item:        Box of crayons 24 count
+Item: Box of crayons
+Comment: 24 count
 
 Input String: 1       Markers, Washable, classic colors, fine tip (8 count)
 Quantity: 1
-Item:        Markers Washable classic colors fine tip 8 count
+Item: Markers Washable classic colors fine tip
+Comment: 8 count
 
 Input String: 1       Pencils, colored, 7", sharpened (8 count)
-Quantity: 1
-Item:        Pencils colored 7 sharpened 8 count
+Not a Product: 1       Pencils, colored, 7", sharpened 
 
 Input String: 5       Stick on notes, 3"x3", yellow (100 count)
 Quantity: 5
-Item:        Stick on notes 3x3 yellow 100 count
+Item: Stick on notes 3x3 yellow
+Comment: 100 count
 
 Input String: 4       Pen, round stic, medium pt., blue
 Quantity: 4
-Item:        Pen round stic medium pt blue
+Item: Pen round stic medium pt blue
 
 Input String: 4       Pen, round stic, medium pt., black
 Quantity: 4
-Item:        Pen round stic medium pt black
+Item: Pen round stic medium pt black
 
 Input String: 2       Marker, Sharpie, extra fine point, black
 Quantity: 2
-Item:        Marker Sharpie extra fine point black
+Item: Marker Sharpie extra fine point black
 
 Input String: 2       Marker, Sharpie, fine paint, black
 Quantity: 2
-Item:        Marker Sharpie fine paint black
+Item: Marker Sharpie fine paint black
 
 Input String: 3       Glue stick, washable, purple, dries clear, (.77 oz)
 Quantity: 3
-Item:        Glue stick washable purple dries clear 77 oz
+Item: Glue stick washable purple dries clear
+Comment: .77 oz
 
 Input String: 2       Highlighter, chisel tip, yellow, with pocket clip
 Quantity: 2
-Item:        Highlighter chisel tip yellow with pocket clip
+Item: Highlighter chisel tip yellow with pocket clip
 
 Input String: 1       Scissors, 'for students', 7", pointed tip
 Quantity: 1
-Item:        Scissors for students 7 pointed tip
+Item: Scissors for students 7 pointed tip
 
 Input String: 1       Ruler,, 12", plastic, inch & cm, center holes
 Quantity: 1
-Item:        Ruler 12 plastic inch  cm center holes
+Item: Ruler 12 plastic inch  cm center holes
 
 Input String: 1       Reinforcements, round, white, Ya" (100 pack)
 Quantity: 1
-Item:        Reinforcements round white Ya 100 pack
+Item: Reinforcements round white Ya
+Comment: 100 pack
 
 Input String: 1       Binder, 3 Ring, Heavy Duty, View, 1", White
 Quantity: 1
-Item:        Binder 3 Ring Heavy Duty View 1 White
+Item: Binder 3 Ring Heavy Duty View 1 White
 
 Input String: 2       Pencils, #2, Oriole, Sharpened, dz
 Quantity: 2
-Item:        Pencils 2 Oriole Sharpened dz
+Item: Pencils 2 Oriole Sharpened dz
 
 Input String: 1       Notebook 5 Sub WR Perf 180 et asst.
 Quantity: 1
-Item:        Notebook 5 Sub WR Perf 180 et asst
+Item: Notebook 5 Sub WR Perf 180 et asst
 

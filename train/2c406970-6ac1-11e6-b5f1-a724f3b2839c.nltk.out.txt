@@ -1,103 +1,114 @@
 Input String: AT&T LTE    8:51 AM @ 9 85%?.
 Quantity: 85
-Item: ATT LTE    851 AM  9 
+Item: ATT LTE    851 AM  9
 
 Input String: docs.google.com
-Item: docsgooglecom
+Item: docs.google.com
 
 Input String: Tiffin ua Supply List for Third Grade 2016
 Quantity: 2016
-Item: Tiffin ua Supply List for Third Grade 
+Item: Tiffin ua Supply List for Third Grade
 
 Input String: w is a list of supplies for students entering third grade for the 2(
-Quantity: 2
-Item: w is a list of supplies for students entering third grade for the 
+Not a Product: w is a list of supplies for students entering third grade for the 2
 
 Input String: of year. These are the items that were included in the PTA Scho,
-Comment: of year These are the items that were included in the PTA Scho
+Not a Product: of year. These are the items that were included in the PTA Scho
 
 Input String: If you did not purchase the PTA School Kit, you will need to
-Comment: If you did not purchase the PTA School Kit you will need to
+Not a Product: If you did not purchase the PTA School Kit, you will need to
 
 Input String: lase the items listed below:
-Comment: lase the items listed below
+Not a Product: lase the items listed below
 
-Input String: antity             Description
-Item: antity             Description
+Input String: antity
+Item: antity
+
+Input String: Description
+Item: Description
 
 Input String: Composition book, marble cover, black, wide (100 count)
-Item: Composition book marble cover black wide 100 count
+Item: Composition book, marble cover, black, wide 
+Comment: 100 count
 
 Input String: Composition book, marble cover, blue, (100 count)
-None: Composition book marble cover blue 100 count
+Item: Composition book, marble cover, blue, 
+Comment: 100 count
 
 Input String: Composition book, marble cover, red (100 count)
-None: Composition book marble cover red 100 count
+Item: Composition book, marble cover, red 
+Comment: 100 count
 
 Input String: Composition book, marble cover, green (100 count)
-Item: Composition book marble cover green 100 count
+Item: Composition book, marble cover, green 
+Comment: 100 count
 
 Input String: Composition book, marble cover, purple (100 count)
-Item: Composition book marble cover purple 100 count
+Item: Composition book, marble cover, purple 
+Comment: 100 count
 
 Input String: Folders, 2 pocket, blue, red, green, yellow, purple, black (6
-Quantity: 6
-Item: Folders 2 pocket blue red green yellow purple black 
+Item: Folders, 2 pocket, blue, red, green, yellow, purple, black 
+Comment: 6
 
 Input String: Box of crayons (24 count)
-Comment: Box of crayons 24 count
+Not a Product: Box of crayons 
+Comment: 24 count
 
 Input String: Set of markers, washable, classic colors, fine tip (8 count)
-Comment: Set of markers washable classic colors fine tip 8 count
+Not a Product: Set of markers, washable, classic colors, fine tip 
+Comment: 8 count
 
 Input String: Set of pencils, colored, 7", sharpened (8 count)
-Comment: Set of pencils colored 7 sharpened 8 count
+Not a Product: Set of pencils, colored, 7", sharpened 
 
-Input String: 2     Boxes of pencils, #2, sharpened, (12 count)
-Quantity: 2
-Item:      Boxes of pencils 2 sharpened 12 count
+Input String: Boxes of pencils, #2, sharpened, (12 count)
+Not a Product: Boxes of pencils, #2, sharpened, 
+Comment: 12 count
 
 Input String: Sharpener, pencil and crayon, double barrel
-Item: Sharpener pencil and crayon double barrel
+Item: Sharpener, pencil and crayon, double barrel
 
 Input String: Eraser, pink, large
-Comment: Eraser pink large
+Item: Eraser, pink, large
 
 Input String: Ruler, 12", plastic, clear, inch & cm., center holes
-Item: Ruler 12 plastic clear inch  cm center holes
+Item: Ruler, 12", plastic, clear, inch & cm., center holes
 
 Input String: Scissors, 'For Kids 5" pointed tip'
-Comment: Scissors For Kids 5 pointed tip
+None: Scissors, 'For Kids 5" pointed tip
 
-Input String: 4     Glue stick (.77 oz.) purple, dries clear
-Quantity: 4
-Item:      Glue stick 77 oz purple dries clear
+Input String: Glue stick (.77 oz.) purple, dries clear
+Not a Product: Glue stick () purple, dries clear
+Comment: .77 oz.
 
 Input String: Glue (4 oz)
-Item: Glue 4 oz
+Item: Glue 
+Comment: 4 oz
 
 Input String: Highlighter, chisel tip YW/BL/GN/PK/OR/PUR ? 6 pk
-Item: Highlighter chisel tip YWBLGNPKORPUR  6 pk
+Item: Highlighter, chisel tip YW/BL/GN/PK/OR/PUR ? 6 pk
 
 Input String: Index cards, 3'x5', ruled, white (100 count)
-None: Index cards 3x5 ruled white 100 count
+None: Index cards, 3'x5', ruled, white 
+Comment: 100 count
 
 Input String: Pencil case, fabric, 3-hole with grommets, 10"x6"
 Quantity: 10x6
-Item: Pencil case fabric 3hole with grommets 
+Item: Pencil case fabric 3hole with grommets
 
 Input String: Pen, ballpoint, medium ? green
-Item: Pen ballpoint medium  green
+Item: Pen, ballpoint, medium ? green
 
 Input String: Pad, stick-on-notes ? 4x6 ? ruled 50 sheet
-None: Pad stickonnotes  4x6  ruled 50 sheet
+None: Pad, stick-on-notes ? 4x6 ? ruled 50 sheet
 
 Input String: Pad, stick-on-notes ? 3x3 ? ruled 100 sheet
-None: Pad stickonnotes  3x3  ruled 100 sheet
+None: Pad, stick-on-notes ? 3x3 ? ruled 100 sheet
 
 Input String: Marker, sharpie, fmd point ? black
-Item: Marker sharpie fmd point  black
+Not a Product: Marker, sharpie, fmd point ? black
 
 Input String: Earbuds w/wind-up case
-Comment: Earbuds wwindup case
+Not a Product: Earbuds w/wind-up case
 

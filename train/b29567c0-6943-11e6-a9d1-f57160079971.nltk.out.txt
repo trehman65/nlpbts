@@ -1,97 +1,104 @@
-Input String: ??000 TFW 11:09 AM             34% [1.*
+Input String: ??000 TFW 11:09 AM
 Quantity: 000
-Item:  TFW 1109 AM             34 1
+Item: TFW 1109 AM
+
+Input String: 34% [1.*
+Quantity: 34
+Item: 1
 
 Input String: clarenceschools.org
-Item: clarenceschoolsorg
+Item: clarenceschools.org
 
 Input String: Clarence Center Elementary School
 Item: Clarence Center Elementary School
 
 Input String: 2nd Grade
 Quantity: 2nd
-Item:  Grade
+Item: Grade
 
 Input String: 2016 ? 2017 School Supply List
 Quantity: 2016
-Item:   2017 School Supply List
+Item: 2017 School Supply List
 
 Input String: (If you purchased a school supply kit from the PTO, items not found
-Comment: If you purchased a school supply kit from the PTO items not found
+Not a Product: If you purchased a school supply kit from the PTO, items not found
 
 Input String: in kit are marked with asterisks**)
-Comment: in kit are marked with asterisks
+Not a Product: in kit are marked with asterisks
 
 Input String: 1 24 pack Crayola colored pencils for Art (No substitutions please)
 Quantity: 1
-Item:  24 pack Crayola colored pencils for Art No substitutions please
+Item: 24 pack Crayola colored pencils for Art
+Comment: No substitutions please
 
 Input String: 24 Sharpened Ticonderoga Pencils Please Label with your child's name
 Quantity: 24
-Item:  Sharpened Ticonderoga Pencils Please Label with your childs name
+Item: Sharpened Ticonderoga Pencils Please Label with your childs name
 
 Input String: 1 Box Crayola Crayons, 24 count box
 Quantity: 1
-Item:  Box Crayola Crayons 24 count box
+Item: Box Crayola Crayons 24 count box
 
 Input String: 3 Large (.77 oz) Elmer's Glue Sticks, Washable, All Purpose
 Quantity: 3
-Item:  Large 77 oz Elmers Glue Sticks Washable All Purpose
+Item: Large  Elmers Glue Sticks Washable All Purpose
+Comment: .77 oz
 
 Input String: 2 Large Pink Erasers
 Quantity: 2
-Item:  Large Pink Erasers
+Item: Large Pink Erasers
 
 Input String: 5 Vinyl/Plastic (non-tear) 3 prong/2 pocket folders - red, yellow, green, blue
 Quantity: 5
-Item:  VinylPlastic nontear 3 prong2 pocket folders  red yellow green blue
+Item: VinylPlastic  3 prong2 pocket folders  red yellow green blue
+Comment: non-tear
 
 Input String: and purple (heavy duty, thicker plastic please)
-Comment: and purple heavy duty thicker plastic please
+Item: and purple 
+Comment: heavy duty, thicker plastic please
 
 Input String: 1 box of Crayola Washable Markers, Classic Colors, Fine Tip 8/set
 Quantity: 1
-Item:  box of Crayola Washable Markers Classic Colors Fine Tip 8set
+Item: box of Crayola Washable Markers Classic Colors Fine Tip 8set
 
 Input String: 3 Marble Composition Notebooks, Wide Ruled, 100 Sheets
 Quantity: 3
-Item:  Marble Composition Notebooks Wide Ruled 100 Sheets
+Item: Marble Composition Notebooks Wide Ruled 100 Sheets
 
 Input String: 2 Black Dry Erase Markers, Fine Tip, Low Odor
 Quantity: 2
-Item:  Black Dry Erase Markers Fine Tip Low Odor
+Item: Black Dry Erase Markers Fine Tip Low Odor
 
 Input String: 1 box of 12 colored pencils - sharpened
-Quantity: 1
-Item:  box of 12 colored pencils  sharpened
+Not a Product: 1 box of 12 colored pencils - sharpened
 
 Input String: 2 Pads of Yellow Post-it Notes, 3" x 3', 100 Sheets/Pad
 Quantity: 2
-Item:  Pads of Yellow Postit Notes 3 x 3 100 SheetsPad
+Item: Pads of Yellow Postit Notes 3 x 3 100 SheetsPad
 
 Input String: 2 Medium point, blue pens
 Quantity: 2
-Item:  Medium point blue pens
+Item: Medium point blue pens
 
 Input String: 1 Medium point, green pen
 Quantity: 1
-Item:  Medium point green pen
+Item: Medium point green pen
 
 Input String: 1 Black sharpie, Fine Point
 Quantity: 1
-Item:  Black sharpie Fine Point
+Item: Black sharpie Fine Point
 
 Input String: 2 Yellow highlighters
 Quantity: 2
-Item:  Yellow highlighters
+Item: Yellow highlighters
 
 Input String: 1 Pair Fiskars Scissors for kids - 5" pointed tip
 Quantity: 1
-Item:  Pair Fiskars Scissors for kids  5 pointed tip
+Item: Pair Fiskars Scissors for kids  5 pointed tip
 
 Input String: 2 Boxes Facial Tissue, 200 Count
 Quantity: 2
-Item:  Boxes Facial Tissue 200 Count
+Item: Boxes Facial Tissue 200 Count
 
 Input String: **Art smock
 Item: Art smock

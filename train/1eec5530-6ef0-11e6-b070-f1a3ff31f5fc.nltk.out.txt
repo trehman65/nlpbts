@@ -1,9 +1,9 @@
 Input String: ???oo Lyeamobile 7:17 AM 1 91%.M'
 Quantity: 91M
-Item: oo Lyeamobile 717 AM 1 
+Item: oo Lyeamobile 717 AM 1
 
 Input String: tywls.org
-Item: tywlsorg
+Item: tywls.org
 
 Input String: ENGLISH:
 Subject: ENGLISH
@@ -12,23 +12,24 @@ Input String: blue or black ink pens
 Item: blue or black ink pens
 
 Input String: post it notes
-Comment: post it notes
+Not a Product: post it notes
 
 Input String: HI TOR
 Item: HI TOR
 
 Input String: --ova*'7moon webs
-Item: ova7moon webs
+Item: ova*'7moon webs
 
 Input String: - 6 Folders for Writing Assignments and Completed Units (these may be simple
 Quantity: 6
-Item:  Folders for Writing Assignments and Completed Units these may be simple
+Item: Folders for Writing Assignments and Completed Units
+Comment: these may be simple
 
 Input String: folders)
 Item: folders
 
 Input String: - blue and/or black ink pens
-Item: blue andor black ink pens
+Item: blue and/or black ink pens
 
 Input String: emminsub
 Item: emminsub
@@ -46,61 +47,65 @@ Input String: - glue
 Item: glue
 
 Input String: -NO whiteout
-Comment: NO whiteout
+Not a Product: NO whiteout
 
 Input String: SCIENCE:
 Subject: SCIENCE
 
 Input String: 1.2-3 inch binder
 Quantity: 123
-Item:  inch binder
+Item: inch binder
 
 Input String: 2. Loose leaf paper
 Quantity: 2
-Item:  Loose leaf paper
+Item: Loose leaf paper
 
 Input String: 3.6 dividers (one for each emit)
 Quantity: 36
-Item:  dividers one for each emit
+Item: dividers
+Comment: one for each emit
 
 Input String: 4. blue and black pens (no other colors, unless correcting or editing work)
 Quantity: 4
-Item:  blue and black pens no other colors unless correcting or editing work
+Item: blue and black pens
+Comment: no other colors, unless correcting or editing work
 
 Input String: 01111111111110114/11.110
 Quantity: 0111111111111011411110
 Item: 
 
 Input String: 6. HW folder (optional), to bring hw home without having to bring the binderhm
-Quantity: 6
-Item:  HW folder optional to bring hw home without having to bring the binderhm
+Not a Product: 6. HW folder (), to bring hw home without having to bring the binderhm
 
 Input String: Math:
 Item: Math
 
 Input String: - 25' Three Ring Binder (JUST FOR MATH)
 Quantity: 25
-Item:  Three Ring Binder JUST FOR MATH
+Item: Three Ring Binder
+Comment: JUST FOR MATH
 
 Input String: - Loose Leaf or Blank Paper
 Item: Loose Leaf or Blank Paper
 
 Input String: - 6 Divides
 Quantity: 6
-Item:  Divides
+Item: Divides
 
 Input String: - Pens & Pen?La
-Comment: Pens  PenLa
+Not a Product: Pens & Pen?La
 
 Input String: - TI-83+ Calculator (far JAM Students)
-Comment: TI83 Calculator far JAM Students
+Item: TI-83+ Calculator 
+Comment: far JAM Students
 
 Input String: MUSIC:
 Subject: MUSIC
 
 Input String: Pencils (mechanical or no. 2); Pens (I suggest a pencil-case as pencils are of
-Comment: Pencils mechanical or no 2 Pens I suggest a pencilcase as pencils are of
+Not a Product: Pencils (mechanical or no. 2); Pens 
+Comment: I suggest a pencil-case as pencils are of
 
 Input String: , Al nnelc.fawn nrnnu fnlAar with InnaoJnaf /If van Ian.. lila in mnlaz
-Comment: Al nnelcfawn nrnnu fnlAar with InnaoJnaf If van Ian lila in mnlaz
+Not a Product: Al nnelc.fawn nrnnu fnlAar with InnaoJnaf /If van Ian.. lila in mnlaz
 

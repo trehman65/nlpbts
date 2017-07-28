@@ -1,12 +1,12 @@
 Input String: ??000T-Mobile LTE 5:34 PM 1 * 18%    1
 Quantity: 000TMobile
-Item:  LTE 534 PM 1  18    1
+Item: LTE 534 PM 1  18    1
 
 Input String: Gmail
 Item: Gmail
 
 Input String: August 26, 2016, 5:34 PM
-Comment: August 26 2016 534 PM
+Not a Product: August 26, 2016, 5:34 PM
 
 Input String: Binders
 Item: Binders

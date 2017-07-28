@@ -1,14 +1,14 @@
 Input String: ??000 Verizon LTE 19:34 @ 11%1 hf
 Quantity: 000
-Item:  Verizon LTE 1934  111 hf
+Item: Verizon LTE 1934  111 hf
 
 Input String: August 22
 Quantity: 22
-Item: August 
+Item: August
 
 Input String: 11:23      Edit
 Quantity: 1123
-Item:       Edit
+Item: Edit
 
 Input String: J 3 marble
 Item: J 3 marble
@@ -17,21 +17,21 @@ Input String: composition
 Subject: composition
 
 Input String: notebooks (100
-Quantity: 100
 Item: notebooks 
+Comment: 100
 
 Input String: sheets)
 Item: sheets
 
 Input String: ? 1" soft covered
 Quantity: 1
-Item:  soft covered
+Item: soft covered
 
 Input String: binder
 Item: binder
 
 Input String: J 1 pkg. dividers
-Item: J 1 pkg dividers
+Item: J 1 pkg. dividers
 
 Input String: J 2 soft covered
 None: J 2 soft covered
@@ -43,28 +43,28 @@ Input String: composition
 Subject: composition
 
 Input String: notebooks (40/80
-Quantity: 4080
 Item: notebooks 
+Comment: 40/80
 
 Input String: sheets)
 Item: sheets
 
 Input String: 3 -2 pocket
 Quantity: 3
-Item:  2 pocket
+Item: 2 pocket
 
 Input String: folders
 Item: folders
 
 Input String: 1 5sharpened
 Quantity: 1
-Item:  5sharpened
+Item: 5sharpened
 
 Input String: pencils daily?
-Comment: pencils daily
+Not a Product: pencils daily
 
 Input String: labeled in a
-Comment: labeled in a
+Not a Product: labeled in a
 
 Input String: ziplock bag
 Item: ziplock bag
@@ -73,37 +73,40 @@ Input String: ? Scissors
 Item: Scissors
 
 Input String: ^ Colored pencils
-Comment: Colored pencils
+Not a Product: Colored pencils
 
 Input String: J 2 glue sticks
 Item: J 2 glue sticks
 
 Input String: ? 1 soft pencil case
 Quantity: 1
-Item:  soft pencil case
+Item: soft pencil case
 
 Input String: ? 3 tissue boxes
 Quantity: 3
-Item:  tissue boxes
+Item: tissue boxes
 
 Input String: 1 1 pkg. Post-it
 Quantity: 1
-Item:  1 pkg Postit
+Item: 1 pkg Postit
 
 Input String: notes
 Item: notes
 
 Input String: ? 1 thin, black dry
 Quantity: 1
-Item:  thin black dry
+Item: thin black dry
 
 Input String: erase marker
 Item: erase marker
 
 Input String: ? 1 highlighter
 Quantity: 1
-Item:  highlighter
+Item: highlighter
 
-Input String: III,                 Zli
-Item: III                 Zli
+Input String: III,
+Item: III
+
+Input String: Zli
+Item: Zli
 

@@ -7,73 +7,81 @@ Item:
 
 Input String: 3 boxes of Ticonderoga No. 2 pencils (SHARPENED)
 Quantity: 3
-Item:  boxes of Ticonderoga No 2 pencils SHARPENED
+Item: boxes of Ticonderoga No 2 pencils
+Comment: SHARPENED
 
 Input String: 2 boxes of 24 Crvyela crayons
 Quantity: 2
-Item:  boxes of 24 Crvyela crayons
+Item: boxes of 24 Crvyela crayons
 
 Input String: 1 set of washable markers
 Quantity: 1
-Item:  set of washable markers
+Item: set of washable markers
 
 Input String: 2 packs of large erasers
 Quantity: 2
-Item:  packs of large erasers
+Item: packs of large erasers
 
 Input String: 2 L4#4E non-toxic glue sticks (white only)
 Quantity: 2
-Item:  L44E nontoxic glue sticks white only
+Item: L44E nontoxic glue sticks
+Comment: white only
 
 Input String: 4 two-pocket plastic folders (red, Noe. green, yellow)
 Quantity: 4
-Item:  twopocket plastic folders red Noe green yellow
+Item: twopocket plastic folders
+Comment: red, Noe. green, yellow
 
 Input String: 'pockets on bottom
-Comment: pockets on bottom
+Not a Product: pockets on bottom
 
 Input String: 2 Marble Composition Notebooks
 Quantity: 2
-Item:  Marble Composition Notebooks
+Item: Marble Composition Notebooks
 
 Input String: 1 plasti<pencil box
 Quantity: 1
-Item:  plastipencil box
+Item: plastipencil box
 
 Input String: (large enough to 111 crayon box. scissors, glue, pencils)
-Comment: large enough to 111 crayon box scissors glue pencils
+Not a Product: large enough to 111 crayon box. scissors, glue, pencils
 
 Input String: I package 3x3 Post-It Notes (with linos)
-Comment: I package 3x3 PostIt Notes with linos
+Item: I package 3x3 Post-It Notes 
+Comment: with linos
 
 Input String: 1 pair of headphones
 Quantity: 1
-Item:  pair of headphones
+Item: pair of headphones
 
 Input String: 2 packs of four Expo I TI (THIN( and law odor) Dry Erase
 Quantity: 2
-Item:  packs of four Expo I TI THIN and law odor Dry Erase
+Item: packs of four Expo I TI THIN Dry Erase
+Comment:  and law odor
 
 Input String: markers
 Item: markers
 
 Input String: 2 large boxes of Proms
 Quantity: 2
-Item:  large boxes of Proms
+Item: large boxes of Proms
 
 Input String: 1 box gallon sloe Ziploc bags (OMs only)
 Quantity: 1
-Item:  box gallon sloe Ziploc bags OMs only
+Item: box gallon sloe Ziploc bags
+Comment: OMs only
 
 Input String: 1 box sandwich size Zlpbc bogs (bays only)
 Quantity: 1
-Item:  box sandwich size Zlpbc bogs bays only
+Item: box sandwich size Zlpbc bogs
+Comment: bays only
 
 Input String: 1 %%L she Ziploc bag (to store yes child's coat and backpack)
 Quantity: 1
-Item:  L she Ziploc bag to store yes childs coat and backpack
+Item: L she Ziploc bag
+Comment: to store yes child's coat and backpack
 
 Input String: 1 package baby wipes
 Quantity: 1
-Item:  package baby wipes
+Item: package baby wipes
 
