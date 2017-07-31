@@ -1,0 +1,11 @@
+my_test/0000-01-rotated.png.txt
+my_test/0000.png.txt
+my_test/0001-01-rotated.png.txt
+my_test/0002-01-rotated.png.txt
+my_test/0003-01-rotated.png.txt
+my_test/0004-01-rotated.png.txt
+my_test/0005-01-rotated.png.txt
+my_test/0006-01-rotated.png.txt
+my_test/0007-01-rotated.png.txt
+my_test/0008-01-rotated.png.txt
+my_test/0009-01-rotated.png.txt

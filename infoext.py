@@ -1,10 +1,8 @@
 import nltk
 import sys
 import re
-import os
-import csv
-import numpy
 import string
+import json
 
 
 def averageDensity(inputString, POS):
@@ -70,9 +68,9 @@ def evaluateString(inputString, dictSubjects):
     elif containsPOS(inputString, "ADP") or containsPOS(inputString, "DET") or containsPOS(inputString,
                                                                                            "PRT") or not containsPOS(
             inputString, "VERB") or not containsPOS(inputString, "NUM"):
-        return "Comment"
+        return "Not a Product"
 
-    return "None"
+    return "Not a Product"
 
 def process(inputString):
 
@@ -90,7 +88,6 @@ def process(inputString):
     # strip spaces again from start and end
     line = line.strip()
 
-    input = line
     wordlabel.append(["Input String", orgline])
 
     comment = line.split("(")[-1].split(")")[0]
@@ -99,9 +96,11 @@ def process(inputString):
         line=line.replace(comment,"")
         line = line.strip(string.punctuation)
 
+    input = line
+
     if (countVerbs(line) >= 2):
 
-        wordlabel.append(["Comment", line])
+        wordlabel.append(["Not a Product", line])
     else:
 
         input = re.sub(r'([^\s\w]|_)+', '', input)
@@ -109,8 +108,16 @@ def process(inputString):
         words = nltk.word_tokenize(input)
         tags = nltk.pos_tag(words)
 
+        if(input.isdigit()):
+            wordlabel.append(["Not a Product", line])
+            return wordlabel
+
         # first word is a number
         if tags[0][1] == 'CD':
+            if len(input.replace(tags[0][0], '', 1).strip()) < 1:
+                wordlabel.append(["Not a Product", line])
+                return wordlabel
+
             wordlabel.append(["Quantity", tags[0][0]])
             wordlabel.append(["Item", input.replace(tags[0][0], '', 1).strip()])
         # last word is quantity
@@ -130,7 +137,7 @@ def process(inputString):
 
 
 abspath = "/Users/talha/PycharmProjects/bts/trainmac/"
-file = open(abspath+"files2.txt")
+file = open(abspath+"files.txt")
 
 
 dictSubjects = set()
@@ -157,11 +164,20 @@ for filename in file.readlines():
     for line in file.readlines():
 
         if len(line) > 3:
-            if line.find("     "):
-                parts= line.split("     ")
+            if line.find("      "):
+                parts= line.split("      ")
                 for part in parts:
-                    if len(part)>1:
-                        print process(part.strip())
+                    if len(part.strip())>1:
+                        output = process(part.strip())
+
+                        for arr in output:
+                            outfile.write(arr[0] + ": " + arr[1] + "\n")
+                        outfile.write("\n")
+
             else:
-                print process(line)
+                output = process(line)
+
+                for arr in output:
+                    outfile.write(arr[0] + ": " + arr[1] + "\n")
+                outfile.write("\n")
 
