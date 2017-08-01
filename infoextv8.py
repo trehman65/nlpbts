@@ -232,74 +232,76 @@ with open("dictSubjects.txt") as f:
         dictSubjects.add(line.replace("\n", ""))
 
 
+
+inputpath = sys.argv[1]
+filename = inputpath.split('/')[-1]
+inputdir = inputpath.replace(filename,"")
+
 file_counter = 0
 my_dict_allimages = {}
 my_dict_overall = {}
 
-for filename in file_filenames.readlines():
-    
-    file_counter += 1
-    out = 0
-    outjson=[]
+out = 0
+outjson=[]
 
-    filename = filename.replace("\n", "")
-    file_txtfile = open(os.path.join(abspath, filename))
+filename = filename.replace("\n", "")
+file_txtfile = open(inputpath)
 
-    print "Processing: ", filename
-    
-    out_filename = filename.replace(".txt", ".nltk.json")
-    outpath = os.path.join(abspath, out_filename)
-    outfile = open(outpath, 'w')
+print "Processing: ", filename
 
-    my_dict_img = {}
-    line_counter = 0
-    for line in file_txtfile.readlines():
-        line = line.strip()
-        line_counter += 1
-        if len(line) > 3:
-            if line.find("     "):
-                parts= line.split("     ")
-                for part in parts:
-                    
-                    if len(part)>1:
-                        out = process(part.strip())
-                        
-            else:
-                
-                out =  process(line)
+out_filename = filename.replace(".txt", ".nltk.json")
+outpath = os.path.join(inputdir, out_filename)
+outfile = open(outpath, 'w')
+
+my_dict_img = {}
+line_counter = 0
+for line in file_txtfile.readlines():
+    line = line.strip()
+    line_counter += 1
+    if len(line) > 3:
+        if line.find("     "):
+            parts= line.split("     ")
+            for part in parts:
+
+                if len(part)>1:
+                    out = process(part.strip())
+
+        else:
+
+            out =  process(line)
 
 
 
-        thisitem={}
-        thisitem["Comment"]=""
-        thisitem["Label"] = "Not a Product"
-        thisitem["Quantity"]=""
-        thisitem["Item"]=""
-        
-        for arr in out:
-            if arr[0] != "Not a Product":
-                thisitem[arr[0]] = arr[1].replace("\""," ")
+    thisitem={}
+    thisitem["Comment"]=""
+    thisitem["Label"] = "Not a Product"
+    thisitem["Quantity"]=""
+    thisitem["Item"]=""
 
-        quant_check = 0
+    for arr in out:
+        if arr[0] != "Not a Product":
+            thisitem[arr[0]] = arr[1].replace("\""," ")
 
-        if (len(thisitem["Item"]) != 0):
-            thisitem["Label"] = "Product"
+    quant_check = 0
 
-        #process quantity
-        if (len(thisitem["Quantity"]) == 0 and len(thisitem["Item"]) != 0):
-            for t in nltk.pos_tag([x.lower() for x in nltk.word_tokenize(thisitem["Item"])[:4]]):
-                if t[1] == 'NNS':
-                    quant_check = 1
+    if (len(thisitem["Item"]) != 0):
+        thisitem["Label"] = "Product"
 
-            if quant_check == 1:
-                thisitem["Quantity"]="Multiple"
-            else:
-                thisitem["Quantity"]="1"
-            
+    #process quantity
+    if (len(thisitem["Quantity"]) == 0 and len(thisitem["Item"]) != 0):
+        for t in nltk.pos_tag([x.lower() for x in nltk.word_tokenize(thisitem["Item"])[:4]]):
+            if t[1] == 'NNS':
+                quant_check = 1
 
-        outjson.append(thisitem)
+        if quant_check == 1:
+            thisitem["Quantity"]="Multiple"
+        else:
+            thisitem["Quantity"]="1"
 
 
-    json.dump(outjson,outfile)
-                
+    outjson.append(thisitem)
+
+
+json.dump(outjson,outfile)
+
        
