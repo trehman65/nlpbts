@@ -191,7 +191,8 @@ def process(inputString):
         
 
         # first word is a number
-        if tags[0][1] == 'CD':
+        if tags[0][0].isdigit():
+
             if len(input.replace(tags[0][0], '', 1).strip()) < 1:
                 input = dict_check(line)
                 wordlabel.append(["Not a Product", line])
@@ -204,8 +205,8 @@ def process(inputString):
             #wordlabel.append(["Item", input.replace(tags[0][0], '', 1).strip()])
             wordlabel.append(["Item", input.strip()])
         # last word is quantity
-        
-        elif tags[len(tags) - 1][1] == 'CD':
+
+        elif tags[len(tags) - 1][0].isdigit():
             wordlabel.append(["Quantity", tags[len(tags) - 1][0]])
             input = dict_check(input)
             #print input
