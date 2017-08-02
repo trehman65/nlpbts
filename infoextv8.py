@@ -246,12 +246,19 @@ for filename in file_filenames.readlines():
     outjson=[]
 
     filename = filename.replace("\n", "")
-    file_txtfile = open(os.path.join(abspath, filename))
+
+    inputpath = os.path.join(abspath, 'test/'+filename)
+    inputpathutf= inputpath.replace('.txt','.utf.txt')
+
+    command = 'cat ' + inputpath + ' | strings -n 8 > ' + inputpathutf;
+    os.system(command)
+
+    file_txtfile = open(inputpathutf)
 
     print "Processing: ", filename
     
     out_filename = filename.replace(".txt", ".nltk.json")
-    outpath = os.path.join(abspath, out_filename)
+    outpath = os.path.join(abspath, 'test/'+out_filename)
     outfile = open(outpath, 'w')
 
     my_dict_img = {}
