@@ -169,6 +169,9 @@ def process(inputString):
 
     input = line
 
+    if len(line) < 1:
+        return wordlabel
+
     if (countVerbs(line) >= 2):
         #print wordlabel
         wordlabel.append(["Not a Product", line])
@@ -235,6 +238,7 @@ with open("dictSubjects.txt") as f:
 inputpath = sys.argv[1]
 filename = inputpath.split('/')[-1]
 inputdir = inputpath.replace(filename,"")
+inputpathutf=inputpath.replace('.txt','.utf.txt')
 
 file_counter = 0
 my_dict_allimages = {}
@@ -243,8 +247,11 @@ my_dict_overall = {}
 out = 0
 outjson=[]
 
+command = 'cat '+ inputpath +' | strings -n 8 > '+ inputpathutf;
+os.system(command)
+
 filename = filename.replace("\n", "")
-file_txtfile = open(inputpath)
+file_txtfile = open(inputpathutf)
 
 print "Processing: ", filename
 
