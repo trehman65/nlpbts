@@ -87,7 +87,7 @@ def dict_check(inputString):
     for w in words:
         #print w
         sub_words_check = 1
-        if len(w) >= 2 and d.check(w):# and not str.isdigit(w):
+        if len(w) >= 2 and d.check(w): # and not str.isdigit(w):
             
             sub_words = tknzr(w)
             #print w, '!!!!!!!!'
@@ -169,6 +169,9 @@ def process(inputString):
 
     input = line
 
+    if len(line) < 1:
+        return wordlabel
+
     if (countVerbs(line) >= 2):
         #print wordlabel
         wordlabel.append(["Not a Product", line])
@@ -219,7 +222,7 @@ def process(inputString):
 
 
 abspath = os.getcwd()
-file_filenames = open(os.path.join(abspath, "filenames.txt"))
+file_filenames = open(os.path.join(abspath, "test/files.txt"))
 
 
 dictSubjects = set()
