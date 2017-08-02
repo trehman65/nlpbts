@@ -219,7 +219,6 @@ def process(inputString):
 
 
 abspath = os.getcwd()
-file_filenames = open(os.path.join(abspath, "filenames.txt"))
 
 
 dictSubjects = set()
